@@ -28,10 +28,12 @@ typedef struct stu_inf
     int poli;
     struct stu_inf* next;
 }stu_inf;
+
 int isempty(stu_inf* head)
 {
     return head ==NULL;
 }
+
 void input(stu_inf* ans)
 {
     printf("请输入学生姓名\n");
@@ -39,6 +41,7 @@ void input(stu_inf* ans)
     printf("请依次输入语文，数学，英语，化学，物理，体育，生物，历史，地理，政治成绩\n");
     scanf_s("%d %d %d %d %d %d %d %d %d %d",&ans->chi,&ans->math,&ans->eng,&ans->che,&ans->phy,&ans->pe,&ans->bio,&ans->hist,&ans->geo,&ans->poli);
 }
+
 stu_inf* chushihua(int n)
 {
     stu_inf* ans = NULL;
@@ -62,6 +65,7 @@ stu_inf* chushihua(int n)
     }
     return ans;
 }
+
 void printList(stu_inf* m)
 {
     printf("姓名：%s",m->ID);
@@ -77,6 +81,7 @@ void printList(stu_inf* m)
     printf("政治：%d]\n",m->poli);
     printf("-------------------\n");
 }
+
 stu_inf* chazhao(stu_inf* head,char ID[])
 {
     stu_inf* tp = head;
@@ -89,8 +94,6 @@ stu_inf* chazhao(stu_inf* head,char ID[])
     {
         if(strcmp(tp->ID,ID) == 0)
         {
-            printf("已查询到该学生，各科成绩如下\n");
-            printList(tp);
             return tp;
         }
         tp = tp->next;
@@ -137,10 +140,10 @@ void insertNode(stu_inf** head)//用二级指针才能让头节点被正确修�
 }
 void modify(stu_inf* head);
 stu_inf* delete(stu_inf* head);//删除头部用stu_inf*接受,不删除不接收
-void reset(stu_inf* head)
+void reset(stu_inf** head)
 {
-    stu_inf* prev = head;
-    stu_inf* current = head->next;
+    stu_inf* prev = *head;
+    stu_inf* current = (*head)->next;
     while (current != NULL)
     {
         free(prev);
@@ -148,6 +151,7 @@ void reset(stu_inf* head)
         current = current->next;
     }
     free(prev);
+    prev = NULL;
 }
 
 void modify(stu_inf* head)
@@ -220,7 +224,6 @@ void modify(stu_inf* head)
             break;
         }
         printf("修改成功 还需要对该学生进行其他操作吗？\n");
-        modify(head);
         break;
     case 0:
         return;
@@ -287,9 +290,440 @@ stu_inf* delete(stu_inf* head)
             free(cur);
         }
     }
-    return NULL;
+    return head;
+}
+void sortscore(stu_inf* head,int n)
+{
+stu_inf* tp=head;
+printf("请输入你要查询的课程编号：");
+printf("(1.语文 2.数学 3.英语 4.化学 5.物理 6.体育 7.生物 8.历史 9.地理 10.政治 )");
+
+int class_num;
+    scanf_s("%d",&class_num);
+int score1,score2,i=0;
+    switch(class_num)
+    {
+    case 1:
+    if(tp==NULL||tp->next==NULL)
+    {
+        return;
+    }
+    for(int b=0;b<n;b++)
+    {
+        for(int a=0;a<n;a++)
+        {
+            if(tp->next!=NULL)
+            {
+        score1=tp->chi,score2=tp->next->chi;
+            }
+        if(score2>score1)
+        {
+            int tempchi;
+            char tempid[20];
+            tempchi=tp->chi;
+            strcpy_s(tempid,20,tp->ID);
+            tp->chi=tp->next->chi;
+            strcpy_s(tp->ID,20,tp->next->ID);
+            tp->next->chi=tempchi;
+            strcpy_s(tp->next->ID,20,tempid);
+        }
+
+        tp=tp->next;
+        }
+    }
+    tp=head;
+        printf("学号:\t\t\t成绩:\n");
+        for(int c=0;c<n;c++)
+        {
+        printf("%s\t\t\t\t\t%d\n",tp->ID,tp->chi);
+        tp=tp->next;
+        }
+        break;
+     case 2:
+    if(tp==NULL||tp->next==NULL)
+    {
+        return;
+    }
+    for(int b=0;b<n;b++)
+    {
+        for(int a=0;a<n;a++)
+        {
+            if(tp->next!=NULL)
+            {
+        score1=tp->math,score2=tp->next->math;
+            }
+        if(score2>score1)
+        {
+            int tempmath;
+            char tempid[20];
+            tempmath=tp->math;
+            strcpy_s(tempid,20,tp->ID);
+            tp->math=tp->next->math;
+            strcpy_s(tp->ID,20,tp->next->ID);
+            tp->next->math=tempmath;
+            strcpy_s(tp->next->ID,20,tempid);
+        }
+        tp=tp->next;
+        }
+    }
+    tp=head;
+        printf("学号:\t\t\t成绩:\n");
+        for(int c=0;c<n;c++)
+        {
+        printf("%s\t\t\t\t\t%d\n",tp->ID,tp->math);
+        tp=tp->next;
+        }
+        break;
+            case 3:
+    if(tp==NULL||tp->next==NULL)
+    {
+        return;
+    }
+    for(int b=0;b<n;b++)
+    {
+        for(int a=0;a<n;a++)
+        {
+            if(tp->next!=NULL)
+            {
+        score1=tp->eng,score2=tp->next->eng;
+            }
+        if(score2>score1)
+        {
+            int tempeng;
+            char tempid[20];
+            tempeng=tp->eng;
+            strcpy_s(tempid,20,tp->ID);
+            tp->eng=tp->next->eng;
+            strcpy_s(tp->ID,20,tp->next->ID);
+            tp->next->eng=tempeng;
+            strcpy_s(tp->next->ID,20,tempid);
+        }
+        tp=tp->next;
+        }
+    }
+    tp=head;
+        printf("学号:\t\t\t成绩:\n");
+        for(int c=0;c<n;c++)
+        {
+        printf("%s\t\t\t\t\t%d\n",tp->ID,tp->eng);
+        tp=tp->next;
+        }
+        break;
+            case 4:
+    if(tp==NULL||tp->next==NULL)
+    {
+        return;
+    }
+    for(int b=0;b<n;b++)
+    {
+        for(int a=0;a<n;a++)
+        {
+            if(tp->next!=NULL)
+            {
+        score1=tp->che,score2=tp->next->che;
+            }
+        if(score2>score1)
+        {
+            int tempche;
+            char tempid[20];
+            tempche=tp->che;
+            strcpy_s(tempid,20,tp->ID);
+            tp->che=tp->next->che;
+            strcpy_s(tp->ID,20,tp->next->ID);
+            tp->next->che=tempche;
+            strcpy_s(tp->next->ID,20,tempid);
+        }
+        tp=tp->next;
+        }
+    }
+    tp=head;
+        printf("学号:\t\t\t成绩:\n");
+        for(int c=0;c<n;c++)
+        {
+        printf("%s\t\t\t\t\t%d\n",tp->ID,tp->che);
+        tp=tp->next;
+        }
+        break;
+            case 5:
+    if(tp==NULL||tp->next==NULL)
+    {
+        return;
+    }
+    for(int b=0;b<n;b++)
+    {
+        for(int a=0;a<30;a++)
+        {
+            if(tp->next!=NULL)
+            {
+        score1=tp->phy,score2=tp->next->phy;
+            }
+        if(score2>score1)
+        {
+            int tempphy;
+            char tempid[20];
+            tempphy=tp->phy;
+            strcpy_s(tempid,20,tp->ID);
+            tp->phy=tp->next->phy;
+            strcpy_s(tp->ID,20,tp->next->ID);
+            tp->next->phy=tempphy;
+            strcpy_s(tp->next->ID,20,tempid);
+        }
+        tp=tp->next;
+        }
+    }
+    tp=head;
+        printf("学号:\t\t\t成绩:\n");
+        for(int c=0;c<30;c++)
+        {
+        printf("%s\t\t\t\t\t%d\n",tp->ID,tp->phy);
+        tp=tp->next;
+        }
+        break;
+            case 6:
+    if(tp==NULL||tp->next==NULL)
+    {
+        return;
+    }
+    for(int b=0;b<n;b++)
+    {
+        for(int a=0;a<n;a++)
+        {
+            if(tp->next!=NULL)
+            {
+        score1=tp->pe,score2=tp->next->pe;
+            }
+        if(score2>score1)
+        {
+            int temppe;
+            char tempid[20];
+            temppe=tp->pe;
+            strcpy_s(tempid,20,tp->ID);
+            tp->pe=tp->next->pe;
+            strcpy_s(tp->ID,20,tp->next->ID);
+            tp->next->pe=temppe;
+            strcpy_s(tp->next->ID,20,tempid);
+        }
+        tp=tp->next;
+        }
+    }
+    tp=head;
+        printf("学号:\t\t\t成绩:\n");
+        for(int c=0;c<30;c++)
+        {
+        printf("%s\t\t\t\t\t%d\n",tp->ID,tp->pe);
+        tp=tp->next;
+        }
+        break;
+            case 7:
+    if(tp==NULL||tp->next==NULL)
+    {
+        return;
+    }
+    for(int b=0;b<n;b++)
+    {
+        for(int a=0;a<n;a++)
+        {
+            if(tp->next!=NULL)
+            {
+        score1=tp->bio,score2=tp->next->bio;
+            }
+        if(score2>score1)
+        {
+            int tempbio;
+            char tempid[20];
+            tempbio=tp->bio;
+            strcpy_s(tempid,20,tp->ID);
+            tp->bio=tp->next->bio;
+            strcpy_s(tp->ID,20,tp->next->ID);
+            tp->next->bio=tempbio;
+            strcpy_s(tp->next->ID,20,tempid);
+        }
+        tp=tp->next;
+        }
+    }
+    tp=head;
+        printf("学号:\t\t\t成绩:\n");
+        for(int c=0;c<n;c++)
+        {
+        printf("%s\t\t\t\t\t%d\n",tp->ID,tp->bio);
+        tp=tp->next;
+        }
+        break;
+            case 8:
+    if(tp==NULL||tp->next==NULL)
+    {
+        return;
+    }
+    for(int b=0;b<n;b++)
+    {
+        for(int a=0;a<n;a++)
+        {
+            if(tp->next!=NULL)
+            {
+        score1=tp->hist,score2=tp->next->hist;
+            }
+        if(score2>score1)
+        {
+            int temphist;
+            char tempid[20];
+            temphist=tp->hist;
+            strcpy_s(tempid,20,tp->ID);
+            tp->hist=tp->next->hist;
+            strcpy_s(tp->ID,20,tp->next->ID);
+            tp->next->hist=temphist;
+            strcpy_s(tp->next->ID,20,tempid);
+        }
+        tp=tp->next;
+        }
+    }
+    tp=head;
+        printf("学号:\t\t\t成绩:\n");
+        for(int c=0;c<n;c++)
+        {
+        printf("%s\t\t\t\t\t%d\n",tp->ID,tp->hist);
+        tp=tp->next;
+        }
+        break;
+            case 9:
+    if(tp==NULL||tp->next==NULL)
+    {
+        return;
+    }
+    for(int b=0;b<n;b++)
+    {
+        for(int a=0;a<n;a++)
+        {
+            if(tp->next!=NULL)
+            {
+        score1=tp->geo,score2=tp->next->geo;
+            }
+        if(score2>score1)
+        {
+            int tempgeo;
+            char tempid[20];
+            tempgeo=tp->geo;
+            strcpy_s(tempid,20,tp->ID);
+            tp->geo=tp->next->geo;
+            strcpy_s(tp->ID,20,tp->next->ID);
+            tp->next->geo=tempgeo;
+            strcpy_s(tp->next->ID,20,tempid);
+        }
+        tp=tp->next;
+        }
+    }
+    tp=head;
+        printf("学号:\t\t\t成绩:\n");
+        for(int c=0;c<n;c++)
+        {
+        printf("%s\t\t\t\t\t%d\n",tp->ID,tp->geo);
+        tp=tp->next;
+        }
+        break;
+            case 10:
+    if(tp==NULL||tp->next==NULL)
+    {
+        return;
+    }
+    for(int b=0;b<n;b++)
+    {
+        for(int a=0;a<n;a++)
+        {
+            if(tp->next!=NULL)
+            {
+        score1=tp->poli,score2=tp->next->poli;
+            }
+        if(score2>score1)
+        {
+            int temppoli;
+            char tempid[20];
+            temppoli=tp->poli;
+            strcpy_s(tempid,20,tp->ID);
+            tp->poli=tp->next->poli;
+            strcpy_s(tp->ID,20,tp->next->ID);
+            tp->next->poli=temppoli;
+            strcpy_s(tp->next->ID,20,tempid);
+        }
+        tp=tp->next;
+        }
+    }
+    tp=head;
+        printf("学号:\t\t\t成绩:\n");
+        for(int c=0;c<n;c++)
+        {
+        printf("%s\t\t\t\t\t%d\n",tp->ID,tp->poli);
+        tp=tp->next;
+        }
+        break;
+    }
 }
 int main()
 {
+    printf("欢迎来到由菲比揪比主教大人赞助的学生成绩信息管理系统\n");
+    printf("先把成绩录入进去吧\n");
+    int n;
+    scanf_s("%d",&n);
+    stu_inf* head = chushihua(n);
+    printf("请输入您想做的操作\n");
+    int choice;
+    while(1)
+    {
+        printf("1.查找对象并打印结果\n");
+        printf("2.查找并修改对象\n");
+        printf("3.选择位置并插入新的同学信息\n");
+        printf("4.删除给定位置同学信息\n");
+        printf("5.遍历节点信息\n");
+        printf("6.选择想要排序成绩的课程并将排序后结果打印\n");
+        printf("7.链表清零");
+        printf("0.退出系统");
+        scanf_s("%d",&choice);
+        char ankle[20];
+        stu_inf* rece = NULL;
+        int branch;
+        switch(choice)
+        {
+            case 1:
+            printf("请输入想查找的学生姓名\n");
+            scanf_s("%s",ankle,20);
+            rece = chazhao(head,ankle);
+            if(isempty(rece))
+            {
+                break;
+            }
+            printList(rece);
+            break;
 
+            case 2:
+            modify(head);
+            break;
+
+            case 3:
+            insertNode(&head);
+            break;
+
+            case 4:
+            head = delete(head);
+            break;
+
+            case 5:
+            print_all_students(head);
+            break;
+            
+            case 6:
+            sortscore(head,n);
+            break;
+
+            case 7:
+            reset(&head);
+            printf("是否还要对清零后链表初始化?(想要初始化请按1)\n");
+            scanf_s("%d",&branch);
+            if(branch == 1)
+            {
+                head = chushihua(30);
+            }
+            break;
+            
+            case 0:
+            return 0;
+        }
+    }
 }
