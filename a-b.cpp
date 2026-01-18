@@ -3,6 +3,8 @@
 #include <cstring>
 #include <math.h>
 #include <utility>
+#include <string>
+//第一次用对数器debug而非ai，开心喵
 /* −1×10^{100000}≤A,B≤10^{100000}*/
 using namespace std;
 bool dengshipanduan(string a,string b);
@@ -28,7 +30,7 @@ pair<string,string> decideBig(string a,string b)
             tp.first = a;
             tp.second = b;
         }
-        else {
+        else {//else情况：a<b
             tp.first = b;
             tp.second = a;
         }
@@ -104,16 +106,15 @@ string _minus(string a,string b)//默认是a-b，若是-a-(-b)则将第一个参
     int pos = da_size;
     for(int j = da_size-1;j>=1;j--)
     {
-        if(da[j]=='0') pos--;
+        if(da[j]!='0') break;
+        pos--;
     }
     string tp = da.substr(0,pos);
     reverse(tp.begin(),tp.end());
     return tp;
 }
-int main()
+string a_b(string a,string b)
 {
-    string a,b;
-    cin >> a >> b;
     int choice;
     if(a[0]!='-'&&b[0]=='-')
     {
@@ -135,24 +136,55 @@ int main()
     switch(choice)
     {
         case 1:
-        cout << add(a,b.substr(1)) << "\n";
+        return add(a,b.substr(1));
         break;
 
         case 2:
         m = decideBig(a,b);
-        if(m.first == b&&a != b) cout << "-";
-        cout <<_minus(a,b) << "\n";
+        if(m.first == b&&a != b) return  "-"+_minus(a,b);
+        else return _minus(a,b);
         break;
 
         case 3:
-        cout << "-";
-        cout << add(a.substr(1),b) << "\n";
+        return "-"+add(a.substr(1),b);
         break;
 
         case 4:
         m = decideBig(b.substr(1),a.substr(1));
-        if(m.first == a.substr(1)&&a.substr(1)!=b.substr(1)) cout << "-";
-        cout << _minus(b.substr(1),a.substr(1)) << "\n";
+        if(m.first == a.substr(1)&&a.substr(1)!=b.substr(1)) return "-"+_minus(b.substr(1),a.substr(1));
+        else return _minus(b.substr(1),a.substr(1));
     }
+}
+bool comperator()
+{
+    int testTime = 100;//测试次数
+    int q;
+    string result1;
+    string result2;
+    for(int i = 1;i <=testTime;i++)
+    {
+        if(i %2 == 0)
+        {
+            q = -1;
+        }
+        else q = 1;
+        int n = ((rand()%10000)+1)*q;
+        int m = ((rand()%10000)+1)*q;
+        result1 = to_string(n-m);
+        result2 = a_b(to_string(n),to_string(m));
+        if(result1 != result2)
+        {
+            cout << "存在错误" << "\n";
+            cout << "initial digit" << n << " " << m << "\n";
+            cout <<"normal:" << result1 << " " <<"a-b:"<< result2 << "\n";
+        }
+    }
+    return true;
+}
+int main()
+{
+    string a,b;
+    cin >> a >> b;
+    cout << a_b(a,b);
     return 0;
 }
