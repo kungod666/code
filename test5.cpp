@@ -1,43 +1,25 @@
 #include <iostream>
 #include <vector>
-#include <functional>
 #include <algorithm>
 using namespace std;
-void ccx(int n)
+int n,A[50];
+int solve(int i,int m)
 {
-    vector<vector<int>> juzhen;
-    for(int i = 0;i < n;i++)
-    {
-        vector<int> tp;
-        for(int j = 1;j <= n;j++)
-        {
-            tp.push_back(j+n*i);
-        }
-        juzhen.push_back(tp);
-    }
-    int size = juzhen.size();
-    for(int i = 0;i < size;i++)
-    {
-        if((i+1)%2==0)
-        {
-            reverse((juzhen[i]).begin(),(juzhen[i]).end());
-        }
-    }
-    for(int i = 0;i < size;i++)
-    {
-        for(int j = 0;j < n;j++)
-        {
-            cout << juzhen[j][i] << " ";
-        }
-        cout << "\n";
-    }
+    if(m == 0) return 1;
+    if(i >= n) return 0;
+    int res = solve(i+1,m) || solve(i+1,m-A[i]);
+    return res;
 }
 int main()
 {
-    int n;
-    while(cin >> n)
-    {
-        ccx(n);
+    int q,M,i;
+    cin >> n;
+    for(i = 0;i < n;i++) cin >> A[i];
+    cin >> q;
+    for(i = 0;i < q;i++){
+        cin >> M;
+        if(solve(0,M)) cout << "yes\n";
+        else cout << "no\n";
     }
     return 0;
 }
