@@ -1,0 +1,160 @@
+[
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\generate_parentheses.dir\\generate_parentheses.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\generate_parentheses.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/generate_parentheses.cpp",
+  "output": "backtracking/CMakeFiles/generate_parentheses.dir/generate_parentheses.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\graph_coloring.dir\\graph_coloring.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\graph_coloring.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/graph_coloring.cpp",
+  "output": "backtracking/CMakeFiles/graph_coloring.dir/graph_coloring.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\knight_tour.dir\\knight_tour.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\knight_tour.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/knight_tour.cpp",
+  "output": "backtracking/CMakeFiles/knight_tour.dir/knight_tour.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\magic_sequence.dir\\magic_sequence.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\magic_sequence.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/magic_sequence.cpp",
+  "output": "backtracking/CMakeFiles/magic_sequence.dir/magic_sequence.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\minimax.dir\\minimax.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\minimax.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/minimax.cpp",
+  "output": "backtracking/CMakeFiles/minimax.dir/minimax.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\n_queens.dir\\n_queens.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\n_queens.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/n_queens.cpp",
+  "output": "backtracking/CMakeFiles/n_queens.dir/n_queens.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\n_queens_all_solution_optimised.dir\\n_queens_all_solution_optimised.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\n_queens_all_solution_optimised.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/n_queens_all_solution_optimised.cpp",
+  "output": "backtracking/CMakeFiles/n_queens_all_solution_optimised.dir/n_queens_all_solution_optimised.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\nqueen_print_all_solutions.dir\\nqueen_print_all_solutions.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\nqueen_print_all_solutions.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/nqueen_print_all_solutions.cpp",
+  "output": "backtracking/CMakeFiles/nqueen_print_all_solutions.dir/nqueen_print_all_solutions.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\rat_maze.dir\\rat_maze.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\rat_maze.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/rat_maze.cpp",
+  "output": "backtracking/CMakeFiles/rat_maze.dir/rat_maze.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\subarray_sum.dir\\subarray_sum.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\subarray_sum.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/subarray_sum.cpp",
+  "output": "backtracking/CMakeFiles/subarray_sum.dir/subarray_sum.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\subset_sum.dir\\subset_sum.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\subset_sum.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/subset_sum.cpp",
+  "output": "backtracking/CMakeFiles/subset_sum.dir/subset_sum.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\sudoku_solver.dir\\sudoku_solver.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\sudoku_solver.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/sudoku_solver.cpp",
+  "output": "backtracking/CMakeFiles/sudoku_solver.dir/sudoku_solver.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\wildcard_matching.dir\\wildcard_matching.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\wildcard_matching.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/wildcard_matching.cpp",
+  "output": "backtracking/CMakeFiles/wildcard_matching.dir/wildcard_matching.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\check_even_odd.dir\\check_even_odd.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\check_even_odd.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/check_even_odd.cpp",
+  "output": "bit_manipulation/CMakeFiles/check_even_odd.dir/check_even_odd.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\count_bits_flip.dir\\count_bits_flip.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\count_bits_flip.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/count_bits_flip.cpp",
+  "output": "bit_manipulation/CMakeFiles/count_bits_flip.dir/count_bits_flip.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\count_of_set_bits.dir\\count_of_set_bits.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\count_of_set_bits.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/count_of_set_bits.cpp",
+  "output": "bit_manipulation/CMakeFiles/count_of_set_bits.dir/count_of_set_bits.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\count_of_trailing_ciphers_in_factorial_n.dir\\count_of_trailing_ciphers_in_factorial_n.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\count_of_trailing_ciphers_in_factorial_n.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/count_of_trailing_ciphers_in_factorial_n.cpp",
+  "output": "bit_manipulation/CMakeFiles/count_of_trailing_ciphers_in_factorial_n.dir/count_of_trailing_ciphers_in_factorial_n.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\find_non_repeating_number.dir\\find_non_repeating_number.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\find_non_repeating_number.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/find_non_repeating_number.cpp",
+  "output": "bit_manipulation/CMakeFiles/find_non_repeating_number.dir/find_non_repeating_number.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\gray_code.dir\\gray_code.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\gray_code.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/gray_code.cpp",
+  "output": "bit_manipulation/CMakeFiles/gray_code.dir/gray_code.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\hamming_distance.dir\\hamming_distance.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\hamming_distance.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/hamming_distance.cpp",
+  "output": "bit_manipulation/CMakeFiles/hamming_distance.dir/hamming_distance.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\next_higher_number_with_same_number_of_set_bits.dir\\next_higher_number_with_same_number_of_set_bits.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\next_higher_number_with_same_number_of_set_bits.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/next_higher_number_with_same_number_of_set_bits.cpp",
+  "output": "bit_manipulation/CMakeFiles/next_higher_number_with_same_number_of_set_bits.dir/next_higher_number_with_same_number_of_set_bits.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\power_of_2.dir\\power_of_2.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\power_of_2.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/power_of_2.cpp",
+  "output": "bit_manipulation/CMakeFiles/power_of_2.dir/power_of_2.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\set_kth_bit.dir\\set_kth_bit.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\set_kth_bit.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/set_kth_bit.cpp",
+  "output": "bit_manipulation/CMakeFiles/set_kth_bit.dir/set_kth_bit.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\travelling_salesman_using_bit_manipulation.dir\\travelling_salesman_using_bit_manipulation.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\travelling_salesman_using_bit_manipulation.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/travelling_salesman_using_bit_manipulation.cpp",
+  "output": "bit_manipulation/CMakeFiles/travelling_salesman_using_bit_manipulation.dir/travelling_salesman_using_bit_manipulation.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/ciphers",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\a1z26_cipher.dir\\a1z26_cipher.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\ciphers\\a1z26_cipher.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/ciphers/a1z26_cipher.cpp",
+  "output": "ciphers/CMakeFiles/a1z26_cipher.dir/a1z26_cipher.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/ciphers",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\atbash_cipher.dir\\atbash_cipher.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\ciphers\\atbash_cipher.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/ciphers/atbash_cipher.cpp",
+  "output": "ciphers/CMakeFiles/atbash_cipher.dir/atbash_cipher.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/ciphers",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -W

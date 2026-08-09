@@ -1,0 +1,1274 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"sorting/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/bead_sort.exe"
+			],
+			"targetId" : "bead_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 19,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "bead_sort::@731c94c3589c2bb2a028",
+				"index" : 19
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/binary_insertion_sort.exe"
+			],
+			"targetId" : "binary_insertion_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 24,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "binary_insertion_sort::@731c94c3589c2bb2a028",
+				"index" : 24
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/bitonic_sort.exe"
+			],
+			"targetId" : "bitonic_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 32,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "bitonic_sort::@731c94c3589c2bb2a028",
+				"index" : 32
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/bogo_sort.exe"
+			],
+			"targetId" : "bogo_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 34,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "bogo_sort::@731c94c3589c2bb2a028",
+				"index" : 34
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/bubble_sort.exe"
+			],
+			"targetId" : "bubble_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 41,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "bubble_sort::@731c94c3589c2bb2a028",
+				"index" : 41
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/bucket_sort.exe"
+			],
+			"targetId" : "bucket_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 42,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "bucket_sort::@731c94c3589c2bb2a028",
+				"index" : 42
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/cocktail_selection_sort.exe"
+			],
+			"targetId" : "cocktail_selection_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 55,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "cocktail_selection_sort::@731c94c3589c2bb2a028",
+				"index" : 55
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/comb_sort.exe"
+			],
+			"targetId" : "comb_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 58,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "comb_sort::@731c94c3589c2bb2a028",
+				"index" : 58
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/count_inversions.exe"
+			],
+			"targetId" : "count_inversions::@731c94c3589c2bb2a028",
+			"targetIndex" : 64,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "count_inversions::@731c94c3589c2bb2a028",
+				"index" : 64
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/counting_sort.exe"
+			],
+			"targetId" : "counting_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 67,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "counting_sort::@731c94c3589c2bb2a028",
+				"index" : 67
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/counting_sort_string.exe"
+			],
+			"targetId" : "counting_sort_string::@731c94c3589c2bb2a028",
+			"targetIndex" : 68,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "counting_sort_string::@731c94c3589c2bb2a028",
+				"index" : 68
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/cycle_sort.exe"
+			],
+			"targetId" : "cycle_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 71,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "cycle_sort::@731c94c3589c2bb2a028",
+				"index" : 71
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/dnf_sort.exe"
+			],
+			"targetId" : "dnf_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 81,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "dnf_sort::@731c94c3589c2bb2a028",
+				"index" : 81
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/gnome_sort.exe"
+			],
+			"targetId" : "gnome_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 125,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "gnome_sort::@731c94c3589c2bb2a028",
+				"index" : 125
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/heap_sort.exe"
+			],
+			"targetId" : "heap_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 136,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "heap_sort::@731c94c3589c2bb2a028",
+				"index" : 136
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/insertion_sort.exe"
+			],
+			"targetId" : "insertion_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 144,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "insertion_sort::@731c94c3589c2bb2a028",
+				"index" : 144
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/insertion_sort_recursive.exe"
+			],
+			"targetId" : "insertion_sort_recursive::@731c94c3589c2bb2a028",
+			"targetIndex" : 145,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "insertion_sort_recursive::@731c94c3589c2bb2a028",
+				"index" : 145
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/library_sort.exe"
+			],
+			"targetId" : "library_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 178,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "library_sort::@731c94c3589c2bb2a028",
+				"index" : 178
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/merge_insertion_sort.exe"
+			],
+			"targetId" : "merge_insertion_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 208,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "merge_insertion_sort::@731c94c3589c2bb2a028",
+				"index" : 208
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/merge_sort.exe"
+			],
+			"targetId" : "merge_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 209,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "merge_sort::@731c94c3589c2bb2a028",
+				"index" : 209
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/non_recursive_merge_sort.exe"
+			],
+			"targetId" : "non_recursive_merge_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 230,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "non_recursive_merge_sort::@731c94c3589c2bb2a028",
+				"index" : 230
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/numeric_string_sort.exe"
+			],
+			"targetId" : "numeric_string_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 234,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "numeric_string_sort::@731c94c3589c2bb2a028",
+				"index" : 234
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/odd_even_sort.exe"
+			],
+			"targetId" : "odd_even_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 235,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "odd_even_sort::@731c94c3589c2bb2a028",
+				"index" : 235
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 24,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/pancake_sort.exe"
+			],
+			"targetId" : "pancake_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 242,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 24,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "pancake_sort::@731c94c3589c2bb2a028",
+				"index" : 242
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 25,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/pigeonhole_sort.exe"
+			],
+			"targetId" : "pigeonhole_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 248,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 25,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "pigeonhole_sort::@731c94c3589c2bb2a028",
+				"index" : 248
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 26,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/quick_sort.exe"
+			],
+			"targetId" : "quick_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 270,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 26,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "quick_sort::@731c94c3589c2bb2a028",
+				"index" : 270
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/quick_sort_3.exe"
+			],
+			"targetId" : "quick_sort_3::@731c94c3589c2bb2a028",
+			"targetIndex" : 271,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "quick_sort_3::@731c94c3589c2bb2a028",
+				"index" : 271
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 28,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/quick_sort_iterative.exe"
+			],
+			"targetId" : "quick_sort_iterative::@731c94c3589c2bb2a028",
+			"targetIndex" : 272,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 28,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "quick_sort_iterative::@731c94c3589c2bb2a028",
+				"index" : 272
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 29,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/radix_sort.exe"
+			],
+			"targetId" : "radix_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 274,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 29,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "radix_sort::@731c94c3589c2bb2a028",
+				"index" : 274
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 30,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/radix_sort2.exe"
+			],
+			"targetId" : "radix_sort2::@731c94c3589c2bb2a028",
+			"targetIndex" : 275,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 30,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "radix_sort2::@731c94c3589c2bb2a028",
+				"index" : 275
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 31,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/random_pivot_quick_sort.exe"
+			],
+			"targetId" : "random_pivot_quick_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 276,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 31,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "random_pivot_quick_sort::@731c94c3589c2bb2a028",
+				"index" : 276
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 32,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/recursive_bubble_sort.exe"
+			],
+			"targetId" : "recursive_bubble_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 280,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 32,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "recursive_bubble_sort::@731c94c3589c2bb2a028",
+				"index" : 280
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 33,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/selection_sort_iterative.exe"
+			],
+			"targetId" : "selection_sort_iterative::@731c94c3589c2bb2a028",
+			"targetIndex" : 290,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 33,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "selection_sort_iterative::@731c94c3589c2bb2a028",
+				"index" : 290
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 34,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/selection_sort_recursive.exe"
+			],
+			"targetId" : "selection_sort_recursive::@731c94c3589c2bb2a028",
+			"targetIndex" : 291,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 34,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "selection_sort_recursive::@731c94c3589c2bb2a028",
+				"index" : 291
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 35,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/shell_sort.exe"
+			],
+			"targetId" : "shell_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 296,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 35,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "shell_sort::@731c94c3589c2bb2a028",
+				"index" : 296
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 36,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/shell_sort2.exe"
+			],
+			"targetId" : "shell_sort2::@731c94c3589c2bb2a028",
+			"targetIndex" : 297,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 36,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "shell_sort2::@731c94c3589c2bb2a028",
+				"index" : 297
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 37,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/slow_sort.exe"
+			],
+			"targetId" : "slow_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 301,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 37,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "slow_sort::@731c94c3589c2bb2a028",
+				"index" : 301
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 38,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/stooge_sort.exe"
+			],
+			"targetId" : "stooge_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 313,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 38,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "stooge_sort::@731c94c3589c2bb2a028",
+				"index" : 313
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 39,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/strand_sort.exe"
+			],
+			"targetId" : "strand_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 314,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 39,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "strand_sort::@731c94c3589c2bb2a028",
+				"index" : 314
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 40,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/swap_sort.exe"
+			],
+			"targetId" : "swap_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 325,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 40,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "swap_sort::@731c94c3589c2bb2a028",
+				"index" : 325
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 41,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/tim_sort.exe"
+			],
+			"targetId" : "tim_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 331,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 41,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "tim_sort::@731c94c3589c2bb2a028",
+				"index" : 331
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 42,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/wave_sort.exe"
+			],
+			"targetId" : "wave_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 353,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 42,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "wave_sort::@731c94c3589c2bb2a028",
+				"index" : 353
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 43,
+			"component" : "Unspecified",
+			"destination" : "bin/sorting",
+			"paths" : 
+			[
+				"sorting/wiggle_sort.exe"
+			],
+			"targetId" : "wiggle_sort::@731c94c3589c2bb2a028",
+			"targetIndex" : 354,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 43,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "wiggle_sort::@731c94c3589c2bb2a028",
+				"index" : 354
+			},
+			"destination" : "bin/sorting",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "sorting",
+		"source" : "sorting"
+	}
+}

@@ -1,0 +1,665 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"graph/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/bidirectional_dijkstra.exe"
+			],
+			"targetId" : "bidirectional_dijkstra::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 21,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "bidirectional_dijkstra::@24f0212b3bb5eb7e3fe6",
+				"index" : 21
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/breadth_first_search.exe"
+			],
+			"targetId" : "breadth_first_search::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 37,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "breadth_first_search::@24f0212b3bb5eb7e3fe6",
+				"index" : 37
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/bridge_finding_with_tarjan_algorithm.exe"
+			],
+			"targetId" : "bridge_finding_with_tarjan_algorithm::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 39,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "bridge_finding_with_tarjan_algorithm::@24f0212b3bb5eb7e3fe6",
+				"index" : 39
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/connected_components.exe"
+			],
+			"targetId" : "connected_components::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 61,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "connected_components::@24f0212b3bb5eb7e3fe6",
+				"index" : 61
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/connected_components_with_dsu.exe"
+			],
+			"targetId" : "connected_components_with_dsu::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 62,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "connected_components_with_dsu::@24f0212b3bb5eb7e3fe6",
+				"index" : 62
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/cycle_check_directed_graph.exe"
+			],
+			"targetId" : "cycle_check_directed_graph::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 70,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "cycle_check_directed_graph::@24f0212b3bb5eb7e3fe6",
+				"index" : 70
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/depth_first_search.exe"
+			],
+			"targetId" : "depth_first_search::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 75,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "depth_first_search::@24f0212b3bb5eb7e3fe6",
+				"index" : 75
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/depth_first_search_with_stack.exe"
+			],
+			"targetId" : "depth_first_search_with_stack::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 76,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "depth_first_search_with_stack::@24f0212b3bb5eb7e3fe6",
+				"index" : 76
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/dijkstra.exe"
+			],
+			"targetId" : "dijkstra::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 78,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "dijkstra::@24f0212b3bb5eb7e3fe6",
+				"index" : 78
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/hamiltons_cycle.exe"
+			],
+			"targetId" : "hamiltons_cycle::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 132,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "hamiltons_cycle::@24f0212b3bb5eb7e3fe6",
+				"index" : 132
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/hopcroft_karp.exe"
+			],
+			"targetId" : "hopcroft_karp::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 139,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "hopcroft_karp::@24f0212b3bb5eb7e3fe6",
+				"index" : 139
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/is_graph_bipartite.exe"
+			],
+			"targetId" : "is_graph_bipartite::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 153,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "is_graph_bipartite::@24f0212b3bb5eb7e3fe6",
+				"index" : 153
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/is_graph_bipartite2.exe"
+			],
+			"targetId" : "is_graph_bipartite2::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 154,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "is_graph_bipartite2::@24f0212b3bb5eb7e3fe6",
+				"index" : 154
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/kosaraju.exe"
+			],
+			"targetId" : "kosaraju::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 170,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "kosaraju::@24f0212b3bb5eb7e3fe6",
+				"index" : 170
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/kruskal.exe"
+			],
+			"targetId" : "kruskal::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 171,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "kruskal::@24f0212b3bb5eb7e3fe6",
+				"index" : 171
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/lowest_common_ancestor.exe"
+			],
+			"targetId" : "lowest_common_ancestor::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 193,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "lowest_common_ancestor::@24f0212b3bb5eb7e3fe6",
+				"index" : 193
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/max_flow_with_ford_fulkerson_and_edmond_karp_algo.exe"
+			],
+			"targetId" : "max_flow_with_ford_fulkerson_and_edmond_karp_algo::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 202,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "max_flow_with_ford_fulkerson_and_edmond_karp_algo::@24f0212b3bb5eb7e3fe6",
+				"index" : 202
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/number_of_paths.exe"
+			],
+			"targetId" : "number_of_paths::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 232,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "number_of_paths::@24f0212b3bb5eb7e3fe6",
+				"index" : 232
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/prim.exe"
+			],
+			"targetId" : "prim::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 255,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "prim::@24f0212b3bb5eb7e3fe6",
+				"index" : 255
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/topological_sort.exe"
+			],
+			"targetId" : "topological_sort::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 332,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "topological_sort::@24f0212b3bb5eb7e3fe6",
+				"index" : 332
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/topological_sort_by_kahns_algo.exe"
+			],
+			"targetId" : "topological_sort_by_kahns_algo::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 333,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "topological_sort_by_kahns_algo::@24f0212b3bb5eb7e3fe6",
+				"index" : 333
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "Unspecified",
+			"destination" : "bin/graph",
+			"paths" : 
+			[
+				"graph/travelling_salesman_problem.exe"
+			],
+			"targetId" : "travelling_salesman_problem::@24f0212b3bb5eb7e3fe6",
+			"targetIndex" : 337,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "travelling_salesman_problem::@24f0212b3bb5eb7e3fe6",
+				"index" : 337
+			},
+			"destination" : "bin/graph",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "graph",
+		"source" : "graph"
+	}
+}

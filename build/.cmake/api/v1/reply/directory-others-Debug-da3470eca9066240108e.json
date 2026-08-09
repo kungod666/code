@@ -1,0 +1,810 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"others/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/buzz_number.exe"
+			],
+			"targetId" : "buzz_number::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 43,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "buzz_number::@b759f101ef48f8ae4fe0",
+				"index" : 43
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/decimal_to_binary.exe"
+			],
+			"targetId" : "decimal_to_binary::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 72,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "decimal_to_binary::@b759f101ef48f8ae4fe0",
+				"index" : 72
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/decimal_to_hexadecimal.exe"
+			],
+			"targetId" : "decimal_to_hexadecimal::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 73,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "decimal_to_hexadecimal::@b759f101ef48f8ae4fe0",
+				"index" : 73
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/decimal_to_roman_numeral.exe"
+			],
+			"targetId" : "decimal_to_roman_numeral::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 74,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "decimal_to_roman_numeral::@b759f101ef48f8ae4fe0",
+				"index" : 74
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/easter.exe"
+			],
+			"targetId" : "easter::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 89,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "easter::@b759f101ef48f8ae4fe0",
+				"index" : 89
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/fast_integer_input.exe"
+			],
+			"targetId" : "fast_integer_input::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 102,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "fast_integer_input::@b759f101ef48f8ae4fe0",
+				"index" : 102
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/happy_number.exe"
+			],
+			"targetId" : "happy_number::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 134,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "happy_number::@b759f101ef48f8ae4fe0",
+				"index" : 134
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/iterative_tree_traversals.exe"
+			],
+			"targetId" : "iterative_tree_traversals::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 156,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "iterative_tree_traversals::@b759f101ef48f8ae4fe0",
+				"index" : 156
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/kadanes3.exe"
+			],
+			"targetId" : "kadanes3::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 162,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "kadanes3::@b759f101ef48f8ae4fe0",
+				"index" : 162
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/kelvin_to_celsius.exe"
+			],
+			"targetId" : "kelvin_to_celsius::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 164,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "kelvin_to_celsius::@b759f101ef48f8ae4fe0",
+				"index" : 164
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/lfu_cache.exe"
+			],
+			"targetId" : "lfu_cache::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 177,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "lfu_cache::@b759f101ef48f8ae4fe0",
+				"index" : 177
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/longest_substring_without_repeating_characters.exe"
+			],
+			"targetId" : "longest_substring_without_repeating_characters::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 192,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "longest_substring_without_repeating_characters::@b759f101ef48f8ae4fe0",
+				"index" : 192
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/lru_cache.exe"
+			],
+			"targetId" : "lru_cache::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 194,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "lru_cache::@b759f101ef48f8ae4fe0",
+				"index" : 194
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/lru_cache2.exe"
+			],
+			"targetId" : "lru_cache2::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 195,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "lru_cache2::@b759f101ef48f8ae4fe0",
+				"index" : 195
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/matrix_exponentiation.exe"
+			],
+			"targetId" : "matrix_exponentiation::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 201,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "matrix_exponentiation::@b759f101ef48f8ae4fe0",
+				"index" : 201
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/palindrome_of_number.exe"
+			],
+			"targetId" : "palindrome_of_number::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 240,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "palindrome_of_number::@b759f101ef48f8ae4fe0",
+				"index" : 240
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/paranthesis_matching.exe"
+			],
+			"targetId" : "paranthesis_matching::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 243,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "paranthesis_matching::@b759f101ef48f8ae4fe0",
+				"index" : 243
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/pascal_triangle.exe"
+			],
+			"targetId" : "pascal_triangle::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 245,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "pascal_triangle::@b759f101ef48f8ae4fe0",
+				"index" : 245
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/postfix_evaluation.exe"
+			],
+			"targetId" : "postfix_evaluation::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 250,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "postfix_evaluation::@b759f101ef48f8ae4fe0",
+				"index" : 250
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/primality_test.exe"
+			],
+			"targetId" : "primality_test::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 256,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "primality_test::@b759f101ef48f8ae4fe0",
+				"index" : 256
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/recursive_tree_traversal.exe"
+			],
+			"targetId" : "recursive_tree_traversal::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 281,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "recursive_tree_traversal::@b759f101ef48f8ae4fe0",
+				"index" : 281
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/smallest_circle.exe"
+			],
+			"targetId" : "smallest_circle::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 302,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "smallest_circle::@b759f101ef48f8ae4fe0",
+				"index" : 302
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/sparse_matrix.exe"
+			],
+			"targetId" : "sparse_matrix::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 303,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "sparse_matrix::@b759f101ef48f8ae4fe0",
+				"index" : 303
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 24,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/spiral_print.exe"
+			],
+			"targetId" : "spiral_print::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 306,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 24,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "spiral_print::@b759f101ef48f8ae4fe0",
+				"index" : 306
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 25,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/stairs_pattern.exe"
+			],
+			"targetId" : "stairs_pattern::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 312,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 25,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "stairs_pattern::@b759f101ef48f8ae4fe0",
+				"index" : 312
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 26,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/tower_of_hanoi.exe"
+			],
+			"targetId" : "tower_of_hanoi::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 334,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 26,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "tower_of_hanoi::@b759f101ef48f8ae4fe0",
+				"index" : 334
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "Unspecified",
+			"destination" : "bin/others",
+			"paths" : 
+			[
+				"others/vector_important_functions.exe"
+			],
+			"targetId" : "vector_important_functions::@b759f101ef48f8ae4fe0",
+			"targetIndex" : 350,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "vector_important_functions::@b759f101ef48f8ae4fe0",
+				"index" : 350
+			},
+			"destination" : "bin/others",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "others",
+		"source" : "others"
+	}
+}

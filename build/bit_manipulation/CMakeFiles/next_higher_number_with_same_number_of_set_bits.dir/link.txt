@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\next_higher_number_with_same_number_of_set_bits.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\next_higher_number_with_same_number_of_set_bits.dir/objects.a @CMakeFiles\next_higher_number_with_same_number_of_set_bits.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\next_higher_number_with_same_number_of_set_bits.dir/objects.a -Wl,--no-whole-archive -o next_higher_number_with_same_number_of_set_bits.exe -Wl,--out-implib,libnext_higher_number_with_same_number_of_set_bits.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\next_higher_number_with_same_number_of_set_bits.dir\linkLibs.rsp

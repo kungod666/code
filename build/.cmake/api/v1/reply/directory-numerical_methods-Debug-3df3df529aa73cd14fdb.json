@@ -1,0 +1,636 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"numerical_methods/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/babylonian_method.exe"
+			],
+			"targetId" : "babylonian_method::@bad2480f0288158ab859",
+			"targetIndex" : 16,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "babylonian_method::@bad2480f0288158ab859",
+				"index" : 16
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/bisection_method.exe"
+			],
+			"targetId" : "bisection_method::@bad2480f0288158ab859",
+			"targetIndex" : 31,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "bisection_method::@bad2480f0288158ab859",
+				"index" : 31
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/brent_method_extrema.exe"
+			],
+			"targetId" : "brent_method_extrema::@bad2480f0288158ab859",
+			"targetIndex" : 38,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "brent_method_extrema::@bad2480f0288158ab859",
+				"index" : 38
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/composite_simpson_rule.exe"
+			],
+			"targetId" : "composite_simpson_rule::@bad2480f0288158ab859",
+			"targetIndex" : 60,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "composite_simpson_rule::@bad2480f0288158ab859",
+				"index" : 60
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/durand_kerner_roots.exe"
+			],
+			"targetId" : "durand_kerner_roots::@bad2480f0288158ab859",
+			"targetIndex" : 87,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "durand_kerner_roots::@bad2480f0288158ab859",
+				"index" : 87
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/false_position.exe"
+			],
+			"targetId" : "false_position::@bad2480f0288158ab859",
+			"targetIndex" : 100,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "false_position::@bad2480f0288158ab859",
+				"index" : 100
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/fast_fourier_transform.exe"
+			],
+			"targetId" : "fast_fourier_transform::@bad2480f0288158ab859",
+			"targetIndex" : 101,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "fast_fourier_transform::@bad2480f0288158ab859",
+				"index" : 101
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/gaussian_elimination.exe"
+			],
+			"targetId" : "gaussian_elimination::@bad2480f0288158ab859",
+			"targetIndex" : 118,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "gaussian_elimination::@bad2480f0288158ab859",
+				"index" : 118
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/golden_search_extrema.exe"
+			],
+			"targetId" : "golden_search_extrema::@bad2480f0288158ab859",
+			"targetIndex" : 126,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "golden_search_extrema::@bad2480f0288158ab859",
+				"index" : 126
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/gram_schmidt.exe"
+			],
+			"targetId" : "gram_schmidt::@bad2480f0288158ab859",
+			"targetIndex" : 128,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "gram_schmidt::@bad2480f0288158ab859",
+				"index" : 128
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/inverse_fast_fourier_transform.exe"
+			],
+			"targetId" : "inverse_fast_fourier_transform::@bad2480f0288158ab859",
+			"targetIndex" : 152,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "inverse_fast_fourier_transform::@bad2480f0288158ab859",
+				"index" : 152
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/lu_decompose.exe"
+			],
+			"targetId" : "lu_decompose::@bad2480f0288158ab859",
+			"targetIndex" : 196,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "lu_decompose::@bad2480f0288158ab859",
+				"index" : 196
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/midpoint_integral_method.exe"
+			],
+			"targetId" : "midpoint_integral_method::@bad2480f0288158ab859",
+			"targetIndex" : 210,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "midpoint_integral_method::@bad2480f0288158ab859",
+				"index" : 210
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/newton_raphson_method.exe"
+			],
+			"targetId" : "newton_raphson_method::@bad2480f0288158ab859",
+			"targetIndex" : 227,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "newton_raphson_method::@bad2480f0288158ab859",
+				"index" : 227
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/ode_forward_euler.exe"
+			],
+			"targetId" : "ode_forward_euler::@bad2480f0288158ab859",
+			"targetIndex" : 236,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "ode_forward_euler::@bad2480f0288158ab859",
+				"index" : 236
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/ode_midpoint_euler.exe"
+			],
+			"targetId" : "ode_midpoint_euler::@bad2480f0288158ab859",
+			"targetIndex" : 237,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "ode_midpoint_euler::@bad2480f0288158ab859",
+				"index" : 237
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/ode_semi_implicit_euler.exe"
+			],
+			"targetId" : "ode_semi_implicit_euler::@bad2480f0288158ab859",
+			"targetIndex" : 238,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "ode_semi_implicit_euler::@bad2480f0288158ab859",
+				"index" : 238
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/qr_decomposition.exe"
+			],
+			"targetId" : "qr_decomposition::@bad2480f0288158ab859",
+			"targetIndex" : 261,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "qr_decomposition::@bad2480f0288158ab859",
+				"index" : 261
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/qr_eigen_values.exe"
+			],
+			"targetId" : "qr_eigen_values::@bad2480f0288158ab859",
+			"targetIndex" : 262,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "qr_eigen_values::@bad2480f0288158ab859",
+				"index" : 262
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/rungekutta.exe"
+			],
+			"targetId" : "rungekutta::@bad2480f0288158ab859",
+			"targetIndex" : 285,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "rungekutta::@bad2480f0288158ab859",
+				"index" : 285
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"destination" : "bin/numerical_methods",
+			"paths" : 
+			[
+				"numerical_methods/successive_approximation.exe"
+			],
+			"targetId" : "successive_approximation::@bad2480f0288158ab859",
+			"targetIndex" : 321,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "successive_approximation::@bad2480f0288158ab859",
+				"index" : 321
+			},
+			"destination" : "bin/numerical_methods",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "numerical_methods",
+		"source" : "numerical_methods"
+	}
+}

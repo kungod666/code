@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\primes_up_to_billion.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\primes_up_to_billion.dir/objects.a @CMakeFiles\primes_up_to_billion.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\primes_up_to_billion.dir/objects.a -Wl,--no-whole-archive -o primes_up_to_billion.exe -Wl,--out-implib,libprimes_up_to_billion.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\primes_up_to_billion.dir\linkLibs.rsp

@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\elliptic_curve_key_exchange.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\elliptic_curve_key_exchange.dir/objects.a @CMakeFiles\elliptic_curve_key_exchange.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\elliptic_curve_key_exchange.dir/objects.a -Wl,--no-whole-archive -o elliptic_curve_key_exchange.exe -Wl,--out-implib,libelliptic_curve_key_exchange.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\elliptic_curve_key_exchange.dir\linkLibs.rsp

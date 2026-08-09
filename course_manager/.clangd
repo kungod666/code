@@ -1,0 +1,4 @@
+CompileFlags:
+  Add:
+    - "-IC:/Program Files/MariaDB/MariaDB Connector C 64-bit/include"
+    - "-ID:/7-Zip/code/course_manager/third_party/libsodium/include"

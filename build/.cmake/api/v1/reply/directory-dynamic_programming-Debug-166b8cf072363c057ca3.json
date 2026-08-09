@@ -1,0 +1,955 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"dynamic_programming/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/0_1_knapsack.exe"
+			],
+			"targetId" : "0_1_knapsack::@418479924e23b5978a74",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "0_1_knapsack::@418479924e23b5978a74",
+				"index" : 0
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/abbreviation.exe"
+			],
+			"targetId" : "abbreviation::@418479924e23b5978a74",
+			"targetIndex" : 4,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "abbreviation::@418479924e23b5978a74",
+				"index" : 4
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/armstrong_number_templated.exe"
+			],
+			"targetId" : "armstrong_number_templated::@418479924e23b5978a74",
+			"targetIndex" : 11,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "armstrong_number_templated::@418479924e23b5978a74",
+				"index" : 11
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/bellman_ford.exe"
+			],
+			"targetId" : "bellman_ford::@418479924e23b5978a74",
+			"targetIndex" : 20,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "bellman_ford::@418479924e23b5978a74",
+				"index" : 20
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/catalan_numbers.exe"
+			],
+			"targetId" : "catalan_numbers::@418479924e23b5978a74",
+			"targetIndex" : 45,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "catalan_numbers::@418479924e23b5978a74",
+				"index" : 45
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/coin_change.exe"
+			],
+			"targetId" : "coin_change::@418479924e23b5978a74",
+			"targetIndex" : 56,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "coin_change::@418479924e23b5978a74",
+				"index" : 56
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/coin_change_topdown.exe"
+			],
+			"targetId" : "coin_change_topdown::@418479924e23b5978a74",
+			"targetIndex" : 57,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "coin_change_topdown::@418479924e23b5978a74",
+				"index" : 57
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/cut_rod.exe"
+			],
+			"targetId" : "cut_rod::@418479924e23b5978a74",
+			"targetIndex" : 69,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "cut_rod::@418479924e23b5978a74",
+				"index" : 69
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/edit_distance.exe"
+			],
+			"targetId" : "edit_distance::@418479924e23b5978a74",
+			"targetIndex" : 90,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "edit_distance::@418479924e23b5978a74",
+				"index" : 90
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/egg_dropping_puzzle.exe"
+			],
+			"targetId" : "egg_dropping_puzzle::@418479924e23b5978a74",
+			"targetIndex" : 91,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "egg_dropping_puzzle::@418479924e23b5978a74",
+				"index" : 91
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/fibonacci_bottom_up.exe"
+			],
+			"targetId" : "fibonacci_bottom_up::@418479924e23b5978a74",
+			"targetIndex" : 107,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "fibonacci_bottom_up::@418479924e23b5978a74",
+				"index" : 107
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/floyd_warshall.exe"
+			],
+			"targetId" : "floyd_warshall::@418479924e23b5978a74",
+			"targetIndex" : 116,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "floyd_warshall::@418479924e23b5978a74",
+				"index" : 116
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/house_robber.exe"
+			],
+			"targetId" : "house_robber::@418479924e23b5978a74",
+			"targetIndex" : 141,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "house_robber::@418479924e23b5978a74",
+				"index" : 141
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/kadane.exe"
+			],
+			"targetId" : "kadane::@418479924e23b5978a74",
+			"targetIndex" : 161,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "kadane::@418479924e23b5978a74",
+				"index" : 161
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/longest_common_string.exe"
+			],
+			"targetId" : "longest_common_string::@418479924e23b5978a74",
+			"targetIndex" : 186,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "longest_common_string::@418479924e23b5978a74",
+				"index" : 186
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/longest_common_subsequence.exe"
+			],
+			"targetId" : "longest_common_subsequence::@418479924e23b5978a74",
+			"targetIndex" : 187,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "longest_common_subsequence::@418479924e23b5978a74",
+				"index" : 187
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/longest_increasing_subsequence.exe"
+			],
+			"targetId" : "longest_increasing_subsequence::@418479924e23b5978a74",
+			"targetIndex" : 188,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "longest_increasing_subsequence::@418479924e23b5978a74",
+				"index" : 188
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/longest_increasing_subsequence_nlogn.exe"
+			],
+			"targetId" : "longest_increasing_subsequence_nlogn::@418479924e23b5978a74",
+			"targetIndex" : 189,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "longest_increasing_subsequence_nlogn::@418479924e23b5978a74",
+				"index" : 189
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/longest_palindromic_subsequence.exe"
+			],
+			"targetId" : "longest_palindromic_subsequence::@418479924e23b5978a74",
+			"targetIndex" : 191,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "longest_palindromic_subsequence::@418479924e23b5978a74",
+				"index" : 191
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/matrix_chain_multiplication.exe"
+			],
+			"targetId" : "matrix_chain_multiplication::@418479924e23b5978a74",
+			"targetIndex" : 200,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "matrix_chain_multiplication::@418479924e23b5978a74",
+				"index" : 200
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/maximum_circular_subarray.exe"
+			],
+			"targetId" : "maximum_circular_subarray::@418479924e23b5978a74",
+			"targetIndex" : 203,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "maximum_circular_subarray::@418479924e23b5978a74",
+				"index" : 203
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/minimum_edit_distance.exe"
+			],
+			"targetId" : "minimum_edit_distance::@418479924e23b5978a74",
+			"targetIndex" : 213,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "minimum_edit_distance::@418479924e23b5978a74",
+				"index" : 213
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/palindrome_partitioning.exe"
+			],
+			"targetId" : "palindrome_partitioning::@418479924e23b5978a74",
+			"targetIndex" : 241,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "palindrome_partitioning::@418479924e23b5978a74",
+				"index" : 241
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 24,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/partition_problem.exe"
+			],
+			"targetId" : "partition_problem::@418479924e23b5978a74",
+			"targetIndex" : 244,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 24,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "partition_problem::@418479924e23b5978a74",
+				"index" : 244
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 25,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/searching_of_element_in_dynamic_array.exe"
+			],
+			"targetId" : "searching_of_element_in_dynamic_array::@418479924e23b5978a74",
+			"targetIndex" : 287,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 25,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "searching_of_element_in_dynamic_array::@418479924e23b5978a74",
+				"index" : 287
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 26,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/shortest_common_supersequence.exe"
+			],
+			"targetId" : "shortest_common_supersequence::@418479924e23b5978a74",
+			"targetIndex" : 298,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 26,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "shortest_common_supersequence::@418479924e23b5978a74",
+				"index" : 298
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/subset_sum_dynamic.exe"
+			],
+			"targetId" : "subset_sum_dynamic::@418479924e23b5978a74",
+			"targetIndex" : 320,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "subset_sum_dynamic::@418479924e23b5978a74",
+				"index" : 320
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 28,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/trapped_rainwater.exe"
+			],
+			"targetId" : "trapped_rainwater::@418479924e23b5978a74",
+			"targetIndex" : 335,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 28,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "trapped_rainwater::@418479924e23b5978a74",
+				"index" : 335
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 29,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/trapped_rainwater2.exe"
+			],
+			"targetId" : "trapped_rainwater2::@418479924e23b5978a74",
+			"targetIndex" : 336,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 29,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "trapped_rainwater2::@418479924e23b5978a74",
+				"index" : 336
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 30,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/tree_height.exe"
+			],
+			"targetId" : "tree_height::@418479924e23b5978a74",
+			"targetIndex" : 342,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 30,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "tree_height::@418479924e23b5978a74",
+				"index" : 342
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 31,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/unbounded_0_1_knapsack.exe"
+			],
+			"targetId" : "unbounded_0_1_knapsack::@418479924e23b5978a74",
+			"targetIndex" : 347,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 31,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "unbounded_0_1_knapsack::@418479924e23b5978a74",
+				"index" : 347
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 32,
+			"component" : "Unspecified",
+			"destination" : "bin/dynamic_programming",
+			"paths" : 
+			[
+				"dynamic_programming/word_break.exe"
+			],
+			"targetId" : "word_break::@418479924e23b5978a74",
+			"targetIndex" : 357,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 32,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "word_break::@418479924e23b5978a74",
+				"index" : 357
+			},
+			"destination" : "bin/dynamic_programming",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "dynamic_programming",
+		"source" : "dynamic_programming"
+	}
+}

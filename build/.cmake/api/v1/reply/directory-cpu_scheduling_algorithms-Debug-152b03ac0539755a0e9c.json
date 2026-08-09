@@ -1,0 +1,85 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"cpu_scheduling_algorithms/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 14,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 14,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/cpu_scheduling_algorithms",
+			"paths" : 
+			[
+				"cpu_scheduling_algorithms/fcfs_scheduling.exe"
+			],
+			"targetId" : "fcfs_scheduling::@1b4d4ee622529b2513df",
+			"targetIndex" : 104,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "fcfs_scheduling::@1b4d4ee622529b2513df",
+				"index" : 104
+			},
+			"destination" : "bin/cpu_scheduling_algorithms",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/cpu_scheduling_algorithms",
+			"paths" : 
+			[
+				"cpu_scheduling_algorithms/non_preemptive_sjf_scheduling.exe"
+			],
+			"targetId" : "non_preemptive_sjf_scheduling::@1b4d4ee622529b2513df",
+			"targetIndex" : 229,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "non_preemptive_sjf_scheduling::@1b4d4ee622529b2513df",
+				"index" : 229
+			},
+			"destination" : "bin/cpu_scheduling_algorithms",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "cpu_scheduling_algorithms",
+		"source" : "cpu_scheduling_algorithms"
+	}
+}

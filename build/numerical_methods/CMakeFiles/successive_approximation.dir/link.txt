@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\successive_approximation.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\successive_approximation.dir/objects.a @CMakeFiles\successive_approximation.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\successive_approximation.dir/objects.a -Wl,--no-whole-archive -o successive_approximation.exe -Wl,--out-implib,libsuccessive_approximation.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\successive_approximation.dir\linkLibs.rsp

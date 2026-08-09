@@ -1,0 +1,2 @@
+﻿-IC:/Program Files/MariaDB/MariaDB Connector C 64-bit/include
+-Ithird_party/libsodium/include

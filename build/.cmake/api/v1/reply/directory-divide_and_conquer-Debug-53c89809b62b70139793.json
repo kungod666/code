@@ -1,0 +1,85 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"divide_and_conquer/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/divide_and_conquer",
+			"paths" : 
+			[
+				"divide_and_conquer/karatsuba_algorithm_for_fast_multiplication.exe"
+			],
+			"targetId" : "karatsuba_algorithm_for_fast_multiplication::@51261297e4cce074f114",
+			"targetIndex" : 163,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "karatsuba_algorithm_for_fast_multiplication::@51261297e4cce074f114",
+				"index" : 163
+			},
+			"destination" : "bin/divide_and_conquer",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/divide_and_conquer",
+			"paths" : 
+			[
+				"divide_and_conquer/strassen_matrix_multiplication.exe"
+			],
+			"targetId" : "strassen_matrix_multiplication::@51261297e4cce074f114",
+			"targetIndex" : 315,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "strassen_matrix_multiplication::@51261297e4cce074f114",
+				"index" : 315
+			},
+			"destination" : "bin/divide_and_conquer",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "divide_and_conquer",
+		"source" : "divide_and_conquer"
+	}
+}

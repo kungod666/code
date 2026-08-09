@@ -1,0 +1,15 @@
+{
+  "C_Cpp.default.compilerPath": "C:/mingw64/bin/g++.exe",
+  "C_Cpp.default.cppStandard": "c++17",
+  "C_Cpp.default.includePath": [
+    "${workspaceFolder}/**",
+    "C:/Program Files/MariaDB/MariaDB Connector C 64-bit/include",
+    "C:/Program Files/MySQL/MySQL Server 8.0/include",
+    "D:/7-Zip/code/course_manager/third_party/libsodium/include"
+  ],
+  "C_Cpp.default.compileCommands": "${workspaceFolder}/compile_commands.json",
+  "C_Cpp.errorSquiggles": "enabled",
+  "clangd.arguments": [
+    "--compile-commands-dir=${workspaceFolder}"
+  ]
+}

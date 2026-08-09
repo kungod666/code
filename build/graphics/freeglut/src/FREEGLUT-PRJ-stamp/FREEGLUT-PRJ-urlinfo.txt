@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/download-FREEGLUT-PRJ.cmake;COMMAND;C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/verify-FREEGLUT-PRJ.cmake;COMMAND;C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/extract-FREEGLUT-PRJ.cmake
+source_dir=D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ
+work_dir=D:/7-Zip/code/build/graphics/freeglut/src
+url(s)=https://github.com/FreeGLUTProject/freeglut/releases/download/v3.4.0/freeglut-3.4.0.tar.gz
+hash=MD5=f1621464e6525d0368976870cab8f418
+      no_extract=
+

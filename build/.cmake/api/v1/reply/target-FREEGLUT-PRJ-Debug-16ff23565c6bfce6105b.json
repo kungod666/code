@@ -1,0 +1,134 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"ExternalProject_Add"
+		],
+		"files" : 
+		[
+			"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.31/Modules/ExternalProject.cmake",
+			"graphics/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2959,
+				"parent" : 1
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "ExternalProjectTargets/FREEGLUT-PRJ"
+	},
+	"id" : "FREEGLUT-PRJ::@708b9b26fb9b6631b242",
+	"name" : "FREEGLUT-PRJ",
+	"paths" : 
+	{
+		"build" : "graphics",
+		"source" : "graphics"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"isGenerated" : true,
+			"path" : "D:/7-Zip/code/build/graphics/CMakeFiles/FREEGLUT-PRJ",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/7-Zip/code/build/graphics/CMakeFiles/FREEGLUT-PRJ.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/7-Zip/code/build/graphics/CMakeFiles/FREEGLUT-PRJ-complete.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-build.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-configure.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-download.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-install.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-mkdir.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-patch.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-update.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

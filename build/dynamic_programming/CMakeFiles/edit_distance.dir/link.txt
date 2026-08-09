@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\edit_distance.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\edit_distance.dir/objects.a @CMakeFiles\edit_distance.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\edit_distance.dir/objects.a -Wl,--no-whole-archive -o edit_distance.exe -Wl,--out-implib,libedit_distance.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\edit_distance.dir\linkLibs.rsp

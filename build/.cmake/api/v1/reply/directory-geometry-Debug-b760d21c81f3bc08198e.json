@@ -1,0 +1,114 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"geometry/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/geometry",
+			"paths" : 
+			[
+				"geometry/graham_scan_algorithm.exe"
+			],
+			"targetId" : "graham_scan_algorithm::@60d41218eef6b4657a56",
+			"targetIndex" : 127,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "graham_scan_algorithm::@60d41218eef6b4657a56",
+				"index" : 127
+			},
+			"destination" : "bin/geometry",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/geometry",
+			"paths" : 
+			[
+				"geometry/jarvis_algorithm.exe"
+			],
+			"targetId" : "jarvis_algorithm::@60d41218eef6b4657a56",
+			"targetIndex" : 157,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "jarvis_algorithm::@60d41218eef6b4657a56",
+				"index" : 157
+			},
+			"destination" : "bin/geometry",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin/geometry",
+			"paths" : 
+			[
+				"geometry/line_segment_intersection.exe"
+			],
+			"targetId" : "line_segment_intersection::@60d41218eef6b4657a56",
+			"targetIndex" : 179,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "line_segment_intersection::@60d41218eef6b4657a56",
+				"index" : 179
+			},
+			"destination" : "bin/geometry",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "geometry",
+		"source" : "geometry"
+	}
+}

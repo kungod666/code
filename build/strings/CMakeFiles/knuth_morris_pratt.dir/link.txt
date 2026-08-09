@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\knuth_morris_pratt.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\knuth_morris_pratt.dir/objects.a @CMakeFiles\knuth_morris_pratt.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\knuth_morris_pratt.dir/objects.a -Wl,--no-whole-archive -o knuth_morris_pratt.exe -Wl,--out-implib,libknuth_morris_pratt.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\knuth_morris_pratt.dir\linkLibs.rsp

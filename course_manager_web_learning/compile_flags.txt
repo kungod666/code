@@ -1,0 +1,4 @@
+-std=c++17
+-IC:/Program Files/MariaDB/MariaDB Connector C 64-bit/include
+-IC:/Program Files/MySQL/MySQL Server 8.0/include
+-ID:/7-Zip/code/course_manager/third_party/libsodium/include

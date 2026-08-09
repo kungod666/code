@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\kohonen_som_topology.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\kohonen_som_topology.dir/objects.a @CMakeFiles\kohonen_som_topology.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\kohonen_som_topology.dir/objects.a -Wl,--no-whole-archive -o kohonen_som_topology.exe -Wl,--out-implib,libkohonen_som_topology.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\kohonen_som_topology.dir\linkLibs.rsp

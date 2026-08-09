@@ -1,0 +1,576 @@
+[
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\generate_parentheses.dir\\generate_parentheses.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\generate_parentheses.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/generate_parentheses.cpp",
+  "output": "backtracking/CMakeFiles/generate_parentheses.dir/generate_parentheses.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\graph_coloring.dir\\graph_coloring.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\graph_coloring.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/graph_coloring.cpp",
+  "output": "backtracking/CMakeFiles/graph_coloring.dir/graph_coloring.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\knight_tour.dir\\knight_tour.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\knight_tour.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/knight_tour.cpp",
+  "output": "backtracking/CMakeFiles/knight_tour.dir/knight_tour.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\magic_sequence.dir\\magic_sequence.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\magic_sequence.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/magic_sequence.cpp",
+  "output": "backtracking/CMakeFiles/magic_sequence.dir/magic_sequence.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\minimax.dir\\minimax.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\minimax.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/minimax.cpp",
+  "output": "backtracking/CMakeFiles/minimax.dir/minimax.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\n_queens.dir\\n_queens.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\n_queens.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/n_queens.cpp",
+  "output": "backtracking/CMakeFiles/n_queens.dir/n_queens.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\n_queens_all_solution_optimised.dir\\n_queens_all_solution_optimised.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\n_queens_all_solution_optimised.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/n_queens_all_solution_optimised.cpp",
+  "output": "backtracking/CMakeFiles/n_queens_all_solution_optimised.dir/n_queens_all_solution_optimised.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\nqueen_print_all_solutions.dir\\nqueen_print_all_solutions.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\nqueen_print_all_solutions.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/nqueen_print_all_solutions.cpp",
+  "output": "backtracking/CMakeFiles/nqueen_print_all_solutions.dir/nqueen_print_all_solutions.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\rat_maze.dir\\rat_maze.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\rat_maze.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/rat_maze.cpp",
+  "output": "backtracking/CMakeFiles/rat_maze.dir/rat_maze.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\subarray_sum.dir\\subarray_sum.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\subarray_sum.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/subarray_sum.cpp",
+  "output": "backtracking/CMakeFiles/subarray_sum.dir/subarray_sum.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\subset_sum.dir\\subset_sum.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\subset_sum.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/subset_sum.cpp",
+  "output": "backtracking/CMakeFiles/subset_sum.dir/subset_sum.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\sudoku_solver.dir\\sudoku_solver.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\sudoku_solver.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/sudoku_solver.cpp",
+  "output": "backtracking/CMakeFiles/sudoku_solver.dir/sudoku_solver.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/backtracking",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\wildcard_matching.dir\\wildcard_matching.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\backtracking\\wildcard_matching.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/backtracking/wildcard_matching.cpp",
+  "output": "backtracking/CMakeFiles/wildcard_matching.dir/wildcard_matching.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\check_even_odd.dir\\check_even_odd.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\check_even_odd.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/check_even_odd.cpp",
+  "output": "bit_manipulation/CMakeFiles/check_even_odd.dir/check_even_odd.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\count_bits_flip.dir\\count_bits_flip.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\count_bits_flip.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/count_bits_flip.cpp",
+  "output": "bit_manipulation/CMakeFiles/count_bits_flip.dir/count_bits_flip.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\count_of_set_bits.dir\\count_of_set_bits.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\count_of_set_bits.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/count_of_set_bits.cpp",
+  "output": "bit_manipulation/CMakeFiles/count_of_set_bits.dir/count_of_set_bits.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\count_of_trailing_ciphers_in_factorial_n.dir\\count_of_trailing_ciphers_in_factorial_n.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\count_of_trailing_ciphers_in_factorial_n.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/count_of_trailing_ciphers_in_factorial_n.cpp",
+  "output": "bit_manipulation/CMakeFiles/count_of_trailing_ciphers_in_factorial_n.dir/count_of_trailing_ciphers_in_factorial_n.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\find_non_repeating_number.dir\\find_non_repeating_number.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\find_non_repeating_number.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/find_non_repeating_number.cpp",
+  "output": "bit_manipulation/CMakeFiles/find_non_repeating_number.dir/find_non_repeating_number.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\gray_code.dir\\gray_code.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\gray_code.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/gray_code.cpp",
+  "output": "bit_manipulation/CMakeFiles/gray_code.dir/gray_code.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\hamming_distance.dir\\hamming_distance.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\hamming_distance.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/hamming_distance.cpp",
+  "output": "bit_manipulation/CMakeFiles/hamming_distance.dir/hamming_distance.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\next_higher_number_with_same_number_of_set_bits.dir\\next_higher_number_with_same_number_of_set_bits.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\next_higher_number_with_same_number_of_set_bits.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/next_higher_number_with_same_number_of_set_bits.cpp",
+  "output": "bit_manipulation/CMakeFiles/next_higher_number_with_same_number_of_set_bits.dir/next_higher_number_with_same_number_of_set_bits.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\power_of_2.dir\\power_of_2.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\power_of_2.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/power_of_2.cpp",
+  "output": "bit_manipulation/CMakeFiles/power_of_2.dir/power_of_2.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\set_kth_bit.dir\\set_kth_bit.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\set_kth_bit.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/set_kth_bit.cpp",
+  "output": "bit_manipulation/CMakeFiles/set_kth_bit.dir/set_kth_bit.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/bit_manipulation",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\travelling_salesman_using_bit_manipulation.dir\\travelling_salesman_using_bit_manipulation.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\bit_manipulation\\travelling_salesman_using_bit_manipulation.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/bit_manipulation/travelling_salesman_using_bit_manipulation.cpp",
+  "output": "bit_manipulation/CMakeFiles/travelling_salesman_using_bit_manipulation.dir/travelling_salesman_using_bit_manipulation.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/ciphers",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\a1z26_cipher.dir\\a1z26_cipher.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\ciphers\\a1z26_cipher.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/ciphers/a1z26_cipher.cpp",
+  "output": "ciphers/CMakeFiles/a1z26_cipher.dir/a1z26_cipher.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/ciphers",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\atbash_cipher.dir\\atbash_cipher.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\ciphers\\atbash_cipher.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/ciphers/atbash_cipher.cpp",
+  "output": "ciphers/CMakeFiles/atbash_cipher.dir/atbash_cipher.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/ciphers",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\base64_encoding.dir\\base64_encoding.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\ciphers\\base64_encoding.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/ciphers/base64_encoding.cpp",
+  "output": "ciphers/CMakeFiles/base64_encoding.dir/base64_encoding.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/ciphers",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\caesar_cipher.dir\\caesar_cipher.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\ciphers\\caesar_cipher.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/ciphers/caesar_cipher.cpp",
+  "output": "ciphers/CMakeFiles/caesar_cipher.dir/caesar_cipher.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/ciphers",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\elliptic_curve_key_exchange.dir\\elliptic_curve_key_exchange.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\ciphers\\elliptic_curve_key_exchange.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/ciphers/elliptic_curve_key_exchange.cpp",
+  "output": "ciphers/CMakeFiles/elliptic_curve_key_exchange.dir/elliptic_curve_key_exchange.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/ciphers",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\hill_cipher.dir\\hill_cipher.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\ciphers\\hill_cipher.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/ciphers/hill_cipher.cpp",
+  "output": "ciphers/CMakeFiles/hill_cipher.dir/hill_cipher.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/ciphers",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\morse_code.dir\\morse_code.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\ciphers\\morse_code.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/ciphers/morse_code.cpp",
+  "output": "ciphers/CMakeFiles/morse_code.dir/morse_code.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/ciphers",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\vigenere_cipher.dir\\vigenere_cipher.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\ciphers\\vigenere_cipher.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/ciphers/vigenere_cipher.cpp",
+  "output": "ciphers/CMakeFiles/vigenere_cipher.dir/vigenere_cipher.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/ciphers",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\xor_cipher.dir\\xor_cipher.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\ciphers\\xor_cipher.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/ciphers/xor_cipher.cpp",
+  "output": "ciphers/CMakeFiles/xor_cipher.dir/xor_cipher.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/cpu_scheduling_algorithms",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\fcfs_scheduling.dir\\fcfs_scheduling.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\cpu_scheduling_algorithms\\fcfs_scheduling.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/cpu_scheduling_algorithms/fcfs_scheduling.cpp",
+  "output": "cpu_scheduling_algorithms/CMakeFiles/fcfs_scheduling.dir/fcfs_scheduling.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/cpu_scheduling_algorithms",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\non_preemptive_sjf_scheduling.dir\\non_preemptive_sjf_scheduling.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\cpu_scheduling_algorithms\\non_preemptive_sjf_scheduling.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/cpu_scheduling_algorithms/non_preemptive_sjf_scheduling.cpp",
+  "output": "cpu_scheduling_algorithms/CMakeFiles/non_preemptive_sjf_scheduling.dir/non_preemptive_sjf_scheduling.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\avltree.dir\\avltree.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\avltree.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/avltree.cpp",
+  "output": "data_structures/CMakeFiles/avltree.dir/avltree.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\binary_search_tree.dir\\binary_search_tree.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\binary_search_tree.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/binary_search_tree.cpp",
+  "output": "data_structures/CMakeFiles/binary_search_tree.dir/binary_search_tree.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\binary_search_tree2.dir\\binary_search_tree2.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\binary_search_tree2.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/binary_search_tree2.cpp",
+  "output": "data_structures/CMakeFiles/binary_search_tree2.dir/binary_search_tree2.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\binaryheap.dir\\binaryheap.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\binaryheap.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/binaryheap.cpp",
+  "output": "data_structures/CMakeFiles/binaryheap.dir/binaryheap.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\bloom_filter.dir\\bloom_filter.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\bloom_filter.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/bloom_filter.cpp",
+  "output": "data_structures/CMakeFiles/bloom_filter.dir/bloom_filter.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\circular_queue_using_linked_list.dir\\circular_queue_using_linked_list.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\circular_queue_using_linked_list.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/circular_queue_using_linked_list.cpp",
+  "output": "data_structures/CMakeFiles/circular_queue_using_linked_list.dir/circular_queue_using_linked_list.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\disjoint_set.dir\\disjoint_set.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\disjoint_set.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/disjoint_set.cpp",
+  "output": "data_structures/CMakeFiles/disjoint_set.dir/disjoint_set.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\doubly_linked_list.dir\\doubly_linked_list.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\doubly_linked_list.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/doubly_linked_list.cpp",
+  "output": "data_structures/CMakeFiles/doubly_linked_list.dir/doubly_linked_list.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\dsu_path_compression.dir\\dsu_path_compression.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\dsu_path_compression.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/dsu_path_compression.cpp",
+  "output": "data_structures/CMakeFiles/dsu_path_compression.dir/dsu_path_compression.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\dsu_union_rank.dir\\dsu_union_rank.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\dsu_union_rank.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/dsu_union_rank.cpp",
+  "output": "data_structures/CMakeFiles/dsu_union_rank.dir/dsu_union_rank.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\linked_list.dir\\linked_list.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\linked_list.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/linked_list.cpp",
+  "output": "data_structures/CMakeFiles/linked_list.dir/linked_list.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\linkedlist_implentation_usingarray.dir\\linkedlist_implentation_usingarray.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\linkedlist_implentation_usingarray.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/linkedlist_implentation_usingarray.cpp",
+  "output": "data_structures/CMakeFiles/linkedlist_implentation_usingarray.dir/linkedlist_implentation_usingarray.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\list_array.dir\\list_array.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\list_array.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/list_array.cpp",
+  "output": "data_structures/CMakeFiles/list_array.dir/list_array.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\morrisinorder.dir\\morrisinorder.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\morrisinorder.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/morrisinorder.cpp",
+  "output": "data_structures/CMakeFiles/morrisinorder.dir/morrisinorder.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\queue_using_array.dir\\queue_using_array.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\queue_using_array.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/queue_using_array.cpp",
+  "output": "data_structures/CMakeFiles/queue_using_array.dir/queue_using_array.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\queue_using_array2.dir\\queue_using_array2.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\queue_using_array2.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/queue_using_array2.cpp",
+  "output": "data_structures/CMakeFiles/queue_using_array2.dir/queue_using_array2.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\queue_using_linked_list.dir\\queue_using_linked_list.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\queue_using_linked_list.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/queue_using_linked_list.cpp",
+  "output": "data_structures/CMakeFiles/queue_using_linked_list.dir/queue_using_linked_list.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\queue_using_linkedlist.dir\\queue_using_linkedlist.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\queue_using_linkedlist.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/queue_using_linkedlist.cpp",
+  "output": "data_structures/CMakeFiles/queue_using_linkedlist.dir/queue_using_linkedlist.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\queue_using_two_stacks.dir\\queue_using_two_stacks.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\queue_using_two_stacks.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/queue_using_two_stacks.cpp",
+  "output": "data_structures/CMakeFiles/queue_using_two_stacks.dir/queue_using_two_stacks.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\rb_tree.dir\\rb_tree.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\rb_tree.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/rb_tree.cpp",
+  "output": "data_structures/CMakeFiles/rb_tree.dir/rb_tree.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\reverse_a_linked_list.dir\\reverse_a_linked_list.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\reverse_a_linked_list.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/reverse_a_linked_list.cpp",
+  "output": "data_structures/CMakeFiles/reverse_a_linked_list.dir/reverse_a_linked_list.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\segment_tree.dir\\segment_tree.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\segment_tree.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/segment_tree.cpp",
+  "output": "data_structures/CMakeFiles/segment_tree.dir/segment_tree.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\skip_list.dir\\skip_list.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\skip_list.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/skip_list.cpp",
+  "output": "data_structures/CMakeFiles/skip_list.dir/skip_list.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\sparse_table.dir\\sparse_table.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\sparse_table.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/sparse_table.cpp",
+  "output": "data_structures/CMakeFiles/sparse_table.dir/sparse_table.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\stack_using_array.dir\\stack_using_array.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\stack_using_array.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/stack_using_array.cpp",
+  "output": "data_structures/CMakeFiles/stack_using_array.dir/stack_using_array.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\stack_using_linked_list.dir\\stack_using_linked_list.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\stack_using_linked_list.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/stack_using_linked_list.cpp",
+  "output": "data_structures/CMakeFiles/stack_using_linked_list.dir/stack_using_linked_list.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\stack_using_queue.dir\\stack_using_queue.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\stack_using_queue.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/stack_using_queue.cpp",
+  "output": "data_structures/CMakeFiles/stack_using_queue.dir/stack_using_queue.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\test_queue.dir\\test_queue.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\test_queue.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/test_queue.cpp",
+  "output": "data_structures/CMakeFiles/test_queue.dir/test_queue.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\test_stack.dir\\test_stack.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\test_stack.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/test_stack.cpp",
+  "output": "data_structures/CMakeFiles/test_stack.dir/test_stack.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\test_stack_students.dir\\test_stack_students.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\test_stack_students.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/test_stack_students.cpp",
+  "output": "data_structures/CMakeFiles/test_stack_students.dir/test_stack_students.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\treap.dir\\treap.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\treap.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/treap.cpp",
+  "output": "data_structures/CMakeFiles/treap.dir/treap.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\tree.dir\\tree.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\tree.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/tree.cpp",
+  "output": "data_structures/CMakeFiles/tree.dir/tree.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\tree_234.dir\\tree_234.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\tree_234.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/tree_234.cpp",
+  "output": "data_structures/CMakeFiles/tree_234.dir/tree_234.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\trie_modern.dir\\trie_modern.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\trie_modern.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/trie_modern.cpp",
+  "output": "data_structures/CMakeFiles/trie_modern.dir/trie_modern.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\trie_tree.dir\\trie_tree.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\trie_tree.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/trie_tree.cpp",
+  "output": "data_structures/CMakeFiles/trie_tree.dir/trie_tree.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\trie_using_hashmap.dir\\trie_using_hashmap.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\trie_using_hashmap.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/trie_using_hashmap.cpp",
+  "output": "data_structures/CMakeFiles/trie_using_hashmap.dir/trie_using_hashmap.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures/cll",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -o CMakeFiles\\cll.dir\\cll.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\cll\\cll.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/cll/cll.cpp",
+  "output": "data_structures/cll/CMakeFiles/cll.dir/cll.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/data_structures/cll",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -o CMakeFiles\\cll.dir\\main_cll.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\data_structures\\cll\\main_cll.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/data_structures/cll/main_cll.cpp",
+  "output": "data_structures/cll/CMakeFiles/cll.dir/main_cll.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/divide_and_conquer",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\karatsuba_algorithm_for_fast_multiplication.dir\\karatsuba_algorithm_for_fast_multiplication.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\divide_and_conquer\\karatsuba_algorithm_for_fast_multiplication.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/divide_and_conquer/karatsuba_algorithm_for_fast_multiplication.cpp",
+  "output": "divide_and_conquer/CMakeFiles/karatsuba_algorithm_for_fast_multiplication.dir/karatsuba_algorithm_for_fast_multiplication.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/divide_and_conquer",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\strassen_matrix_multiplication.dir\\strassen_matrix_multiplication.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\divide_and_conquer\\strassen_matrix_multiplication.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/divide_and_conquer/strassen_matrix_multiplication.cpp",
+  "output": "divide_and_conquer/CMakeFiles/strassen_matrix_multiplication.dir/strassen_matrix_multiplication.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\0_1_knapsack.dir\\0_1_knapsack.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\0_1_knapsack.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/0_1_knapsack.cpp",
+  "output": "dynamic_programming/CMakeFiles/0_1_knapsack.dir/0_1_knapsack.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\abbreviation.dir\\abbreviation.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\abbreviation.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/abbreviation.cpp",
+  "output": "dynamic_programming/CMakeFiles/abbreviation.dir/abbreviation.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\armstrong_number_templated.dir\\armstrong_number_templated.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\armstrong_number_templated.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/armstrong_number_templated.cpp",
+  "output": "dynamic_programming/CMakeFiles/armstrong_number_templated.dir/armstrong_number_templated.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\bellman_ford.dir\\bellman_ford.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\bellman_ford.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/bellman_ford.cpp",
+  "output": "dynamic_programming/CMakeFiles/bellman_ford.dir/bellman_ford.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\catalan_numbers.dir\\catalan_numbers.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\catalan_numbers.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/catalan_numbers.cpp",
+  "output": "dynamic_programming/CMakeFiles/catalan_numbers.dir/catalan_numbers.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\coin_change.dir\\coin_change.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\coin_change.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/coin_change.cpp",
+  "output": "dynamic_programming/CMakeFiles/coin_change.dir/coin_change.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\coin_change_topdown.dir\\coin_change_topdown.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\coin_change_topdown.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/coin_change_topdown.cpp",
+  "output": "dynamic_programming/CMakeFiles/coin_change_topdown.dir/coin_change_topdown.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\cut_rod.dir\\cut_rod.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\cut_rod.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/cut_rod.cpp",
+  "output": "dynamic_programming/CMakeFiles/cut_rod.dir/cut_rod.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\edit_distance.dir\\edit_distance.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\edit_distance.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/edit_distance.cpp",
+  "output": "dynamic_programming/CMakeFiles/edit_distance.dir/edit_distance.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\egg_dropping_puzzle.dir\\egg_dropping_puzzle.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\egg_dropping_puzzle.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/egg_dropping_puzzle.cpp",
+  "output": "dynamic_programming/CMakeFiles/egg_dropping_puzzle.dir/egg_dropping_puzzle.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\fibonacci_bottom_up.dir\\fibonacci_bottom_up.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\fibonacci_bottom_up.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/fibonacci_bottom_up.cpp",
+  "output": "dynamic_programming/CMakeFiles/fibonacci_bottom_up.dir/fibonacci_bottom_up.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\floyd_warshall.dir\\floyd_warshall.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\floyd_warshall.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/floyd_warshall.cpp",
+  "output": "dynamic_programming/CMakeFiles/floyd_warshall.dir/floyd_warshall.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\house_robber.dir\\house_robber.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\house_robber.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/house_robber.cpp",
+  "output": "dynamic_programming/CMakeFiles/house_robber.dir/house_robber.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\kadane.dir\\kadane.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\kadane.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/kadane.cpp",
+  "output": "dynamic_programming/CMakeFiles/kadane.dir/kadane.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\longest_common_string.dir\\longest_common_string.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\longest_common_string.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/longest_common_string.cpp",
+  "output": "dynamic_programming/CMakeFiles/longest_common_string.dir/longest_common_string.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\longest_common_subsequence.dir\\longest_common_subsequence.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\longest_common_subsequence.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/longest_common_subsequence.cpp",
+  "output": "dynamic_programming/CMakeFiles/longest_common_subsequence.dir/longest_common_subsequence.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\longest_increasing_subsequence.dir\\longest_increasing_subsequence.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\longest_increasing_subsequence.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/longest_increasing_subsequence.cpp",
+  "output": "dynamic_programming/CMakeFiles/longest_increasing_subsequence.dir/longest_increasing_subsequence.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\longest_increasing_subsequence_nlogn.dir\\longest_increasing_subsequence_nlogn.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\longest_increasing_subsequence_nlogn.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/longest_increasing_subsequence_nlogn.cpp",
+  "output": "dynamic_programming/CMakeFiles/longest_increasing_subsequence_nlogn.dir/longest_increasing_subsequence_nlogn.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\longest_palindromic_subsequence.dir\\longest_palindromic_subsequence.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\longest_palindromic_subsequence.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/longest_palindromic_subsequence.cpp",
+  "output": "dynamic_programming/CMakeFiles/longest_palindromic_subsequence.dir/longest_palindromic_subsequence.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\matrix_chain_multiplication.dir\\matrix_chain_multiplication.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\matrix_chain_multiplication.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/matrix_chain_multiplication.cpp",
+  "output": "dynamic_programming/CMakeFiles/matrix_chain_multiplication.dir/matrix_chain_multiplication.cpp.obj"
+},
+{
+  "directory": "D:/7-Zip/code/build/dynamic_programming",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -Wall -Wextra -Wno-register -Werror=vla -fopenmp -o CMakeFiles\\maximum_circular_subarray.dir\\maximum_circular_subarray.cpp.obj -c D:\\7-Zip\\code\\C-Plus-Plus\\dynamic_programming\\maximum_circular_subarray.cpp",
+  "file": "D:/7-Zip/code/C-Plus-Plus/dynamic_programming/maximum_circular_subarray.cpp",
+  "output": "dynamic_pro

@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\is_graph_bipartite.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\is_graph_bipartite.dir/objects.a @CMakeFiles\is_graph_bipartite.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\is_graph_bipartite.dir/objects.a -Wl,--no-whole-archive -o is_graph_bipartite.exe -Wl,--out-implib,libis_graph_bipartite.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\is_graph_bipartite.dir\linkLibs.rsp

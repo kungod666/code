@@ -1,0 +1,23 @@
+// 订单条目类
+public class OrderItem {
+    private Product product;
+    private int quantity;
+
+    public OrderItem(Product product, int quantity) {
+        this.product = product;
+        this.quantity = quantity;
+    }
+
+    public Product getProduct() { return product; }
+    public int getQuantity() { return quantity; }
+    public void setQuantity(int quantity) { this.quantity = quantity; }
+
+    public double getValue() {
+        return quantity * product.getPrice();
+    }
+
+    // 格式：quantity productCode productPrice
+    public String toString() {
+        return quantity + " " + product.getCode() + " " + product.getPrice();
+    }
+}

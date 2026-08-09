@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ncr_modulo_p.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\ncr_modulo_p.dir/objects.a @CMakeFiles\ncr_modulo_p.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ncr_modulo_p.dir/objects.a -Wl,--no-whole-archive -o ncr_modulo_p.exe -Wl,--out-implib,libncr_modulo_p.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ncr_modulo_p.dir\linkLibs.rsp

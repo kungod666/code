@@ -1,0 +1,56 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"data_structures/cll/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/data_structures",
+			"paths" : 
+			[
+				"data_structures/cll/cll.exe"
+			],
+			"targetId" : "cll::@7dbee7a89b058bb94588",
+			"targetIndex" : 54,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "cll::@7dbee7a89b058bb94588",
+				"index" : 54
+			},
+			"destination" : "bin/data_structures",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "data_structures/cll",
+		"source" : "data_structures/cll"
+	}
+}

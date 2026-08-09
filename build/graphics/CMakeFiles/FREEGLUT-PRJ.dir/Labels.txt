@@ -1,0 +1,13 @@
+# Target labels
+ FREEGLUT-PRJ
+# Source files and their labels
+D:/7-Zip/code/build/graphics/CMakeFiles/FREEGLUT-PRJ
+D:/7-Zip/code/build/graphics/CMakeFiles/FREEGLUT-PRJ.rule
+D:/7-Zip/code/build/graphics/CMakeFiles/FREEGLUT-PRJ-complete.rule
+D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-build.rule
+D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-configure.rule
+D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-download.rule
+D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-install.rule
+D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-mkdir.rule
+D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-patch.rule
+D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-update.rule

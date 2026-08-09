@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+7b437649b8b3c8f1a2de61a7212da5fa graphics/CMakeFiles/FREEGLUT-PRJ
+22dcf3643b225df3d6f14043a66e7354 graphics/CMakeFiles/FREEGLUT-PRJ-complete
+c968f99a1c2d44c0c08fc1316a314901 graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-build
+331e2cccf8697e5d3f1ccf67452305d8 graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-configure
+a4ce53711b8b2c1e88c5b4e5b3362fca graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-download
+464da5febb601c303ca1509df54a095d graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-install
+b39d826913701c8b03af2e7ed9ded655 graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-mkdir
+08b26305f7c260494c9a16d189596e19 graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-patch
+6f112b6da446be2e3d37279c524e587d graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-update

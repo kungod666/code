@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\kelvin_to_celsius.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\kelvin_to_celsius.dir/objects.a @CMakeFiles\kelvin_to_celsius.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\kelvin_to_celsius.dir/objects.a -Wl,--no-whole-archive -o kelvin_to_celsius.exe -Wl,--out-implib,libkelvin_to_celsius.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\kelvin_to_celsius.dir\linkLibs.rsp

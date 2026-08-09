@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\mo.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\mo.dir/objects.a @CMakeFiles\mo.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\mo.dir/objects.a -Wl,--no-whole-archive -o mo.exe -Wl,--out-implib,libmo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\mo.dir\linkLibs.rsp

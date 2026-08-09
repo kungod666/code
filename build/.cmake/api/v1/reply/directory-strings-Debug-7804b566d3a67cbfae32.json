@@ -1,0 +1,259 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"strings/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/strings",
+			"paths" : 
+			[
+				"strings/boyer_moore.exe"
+			],
+			"targetId" : "boyer_moore::@89d0016ae4e25e06fd39",
+			"targetIndex" : 36,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "boyer_moore::@89d0016ae4e25e06fd39",
+				"index" : 36
+			},
+			"destination" : "bin/strings",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/strings",
+			"paths" : 
+			[
+				"strings/brute_force_string_searching.exe"
+			],
+			"targetId" : "brute_force_string_searching::@89d0016ae4e25e06fd39",
+			"targetIndex" : 40,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "brute_force_string_searching::@89d0016ae4e25e06fd39",
+				"index" : 40
+			},
+			"destination" : "bin/strings",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin/strings",
+			"paths" : 
+			[
+				"strings/duval.exe"
+			],
+			"targetId" : "duval::@89d0016ae4e25e06fd39",
+			"targetIndex" : 88,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "duval::@89d0016ae4e25e06fd39",
+				"index" : 88
+			},
+			"destination" : "bin/strings",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "bin/strings",
+			"paths" : 
+			[
+				"strings/horspool.exe"
+			],
+			"targetId" : "horspool::@89d0016ae4e25e06fd39",
+			"targetIndex" : 140,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "horspool::@89d0016ae4e25e06fd39",
+				"index" : 140
+			},
+			"destination" : "bin/strings",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "bin/strings",
+			"paths" : 
+			[
+				"strings/knuth_morris_pratt.exe"
+			],
+			"targetId" : "knuth_morris_pratt::@89d0016ae4e25e06fd39",
+			"targetIndex" : 167,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "knuth_morris_pratt::@89d0016ae4e25e06fd39",
+				"index" : 167
+			},
+			"destination" : "bin/strings",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "bin/strings",
+			"paths" : 
+			[
+				"strings/manacher_algorithm.exe"
+			],
+			"targetId" : "manacher_algorithm::@89d0016ae4e25e06fd39",
+			"targetIndex" : 199,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "manacher_algorithm::@89d0016ae4e25e06fd39",
+				"index" : 199
+			},
+			"destination" : "bin/strings",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "bin/strings",
+			"paths" : 
+			[
+				"strings/rabin_karp.exe"
+			],
+			"targetId" : "rabin_karp::@89d0016ae4e25e06fd39",
+			"targetIndex" : 273,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "rabin_karp::@89d0016ae4e25e06fd39",
+				"index" : 273
+			},
+			"destination" : "bin/strings",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "bin/strings",
+			"paths" : 
+			[
+				"strings/z_function.exe"
+			],
+			"targetId" : "z_function::@89d0016ae4e25e06fd39",
+			"targetIndex" : 359,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "z_function::@89d0016ae4e25e06fd39",
+				"index" : 359
+			},
+			"destination" : "bin/strings",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "strings",
+		"source" : "strings"
+	}
+}

@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cut_rod.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\cut_rod.dir/objects.a @CMakeFiles\cut_rod.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\cut_rod.dir/objects.a -Wl,--no-whole-archive -o cut_rod.exe -Wl,--out-implib,libcut_rod.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cut_rod.dir\linkLibs.rsp

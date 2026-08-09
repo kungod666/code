@@ -1,0 +1,1 @@
+  -L"D:/7-Zip/code/build/graphics/freeglut/src/FREEGLUT-PRJ-build/lib"  -lopengl32 "C:/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/libgomp.dll.a" "C:/mingw64/x86_64-w64-mingw32/lib/libpthread.dll.a" "C:/mingw64/x86_64-w64-mingw32/lib/libmingwthrd.a" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

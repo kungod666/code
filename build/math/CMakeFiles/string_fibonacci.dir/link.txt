@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\string_fibonacci.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\string_fibonacci.dir/objects.a @CMakeFiles\string_fibonacci.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\string_fibonacci.dir/objects.a -Wl,--no-whole-archive -o string_fibonacci.exe -Wl,--out-implib,libstring_fibonacci.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\string_fibonacci.dir\linkLibs.rsp

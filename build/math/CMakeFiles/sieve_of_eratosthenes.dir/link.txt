@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\sieve_of_eratosthenes.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\sieve_of_eratosthenes.dir/objects.a @CMakeFiles\sieve_of_eratosthenes.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\sieve_of_eratosthenes.dir/objects.a -Wl,--no-whole-archive -o sieve_of_eratosthenes.exe -Wl,--out-implib,libsieve_of_eratosthenes.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sieve_of_eratosthenes.dir\linkLibs.rsp

@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\gcd_iterative_euclidean.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\gcd_iterative_euclidean.dir/objects.a @CMakeFiles\gcd_iterative_euclidean.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\gcd_iterative_euclidean.dir/objects.a -Wl,--no-whole-archive -o gcd_iterative_euclidean.exe -Wl,--out-implib,libgcd_iterative_euclidean.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gcd_iterative_euclidean.dir\linkLibs.rsp

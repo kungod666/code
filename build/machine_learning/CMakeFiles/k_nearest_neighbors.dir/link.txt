@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\k_nearest_neighbors.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\k_nearest_neighbors.dir/objects.a @CMakeFiles\k_nearest_neighbors.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\k_nearest_neighbors.dir/objects.a -Wl,--no-whole-archive -o k_nearest_neighbors.exe -Wl,--out-implib,libk_nearest_neighbors.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\k_nearest_neighbors.dir\linkLibs.rsp

@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\knight_tour.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\knight_tour.dir/objects.a @CMakeFiles\knight_tour.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\knight_tour.dir/objects.a -Wl,--no-whole-archive -o knight_tour.exe -Wl,--out-implib,libknight_tour.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\knight_tour.dir\linkLibs.rsp

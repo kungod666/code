@@ -1,0 +1,230 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"range_queries/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/range_queries",
+			"paths" : 
+			[
+				"range_queries/fenwick_tree.exe"
+			],
+			"targetId" : "fenwick_tree::@50ab968db756d8deeb74",
+			"targetIndex" : 105,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "fenwick_tree::@50ab968db756d8deeb74",
+				"index" : 105
+			},
+			"destination" : "bin/range_queries",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/range_queries",
+			"paths" : 
+			[
+				"range_queries/heavy_light_decomposition.exe"
+			],
+			"targetId" : "heavy_light_decomposition::@50ab968db756d8deeb74",
+			"targetIndex" : 137,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "heavy_light_decomposition::@50ab968db756d8deeb74",
+				"index" : 137
+			},
+			"destination" : "bin/range_queries",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin/range_queries",
+			"paths" : 
+			[
+				"range_queries/mo.exe"
+			],
+			"targetId" : "mo::@50ab968db756d8deeb74",
+			"targetIndex" : 214,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "mo::@50ab968db756d8deeb74",
+				"index" : 214
+			},
+			"destination" : "bin/range_queries",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "bin/range_queries",
+			"paths" : 
+			[
+				"range_queries/persistent_seg_tree_lazy_prop.exe"
+			],
+			"targetId" : "persistent_seg_tree_lazy_prop::@50ab968db756d8deeb74",
+			"targetIndex" : 247,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "persistent_seg_tree_lazy_prop::@50ab968db756d8deeb74",
+				"index" : 247
+			},
+			"destination" : "bin/range_queries",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "bin/range_queries",
+			"paths" : 
+			[
+				"range_queries/prefix_sum_array.exe"
+			],
+			"targetId" : "prefix_sum_array::@50ab968db756d8deeb74",
+			"targetIndex" : 254,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "prefix_sum_array::@50ab968db756d8deeb74",
+				"index" : 254
+			},
+			"destination" : "bin/range_queries",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "bin/range_queries",
+			"paths" : 
+			[
+				"range_queries/segtree.exe"
+			],
+			"targetId" : "segtree::@50ab968db756d8deeb74",
+			"targetIndex" : 289,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "segtree::@50ab968db756d8deeb74",
+				"index" : 289
+			},
+			"destination" : "bin/range_queries",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "bin/range_queries",
+			"paths" : 
+			[
+				"range_queries/sparse_table_range_queries.exe"
+			],
+			"targetId" : "sparse_table_range_queries::@50ab968db756d8deeb74",
+			"targetIndex" : 305,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "sparse_table_range_queries::@50ab968db756d8deeb74",
+				"index" : 305
+			},
+			"destination" : "bin/range_queries",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "range_queries",
+		"source" : "range_queries"
+	}
+}

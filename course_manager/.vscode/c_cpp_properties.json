@@ -1,0 +1,20 @@
+﻿{
+    "configurations":  [
+                           {
+                               "name":  "windows-gcc-x64",
+                               "includePath":  [
+                                                   "${workspaceFolder}/**",
+                                                   "C:/Program Files/MariaDB/MariaDB Connector C 64-bit/include",
+                                                   "${workspaceFolder}/third_party/libsodium/include"
+                                               ],
+                               "compilerPath":  "C:/mingw64/bin/g++.exe",
+                               "cStandard":  "${default}",
+                               "cppStandard":  "c++17",
+                               "intelliSenseMode":  "windows-gcc-x64",
+                               "compilerArgs":  [
+
+                                                ]
+                           }
+                       ],
+    "version":  4
+}

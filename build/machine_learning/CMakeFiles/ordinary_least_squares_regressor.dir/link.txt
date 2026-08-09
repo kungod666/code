@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ordinary_least_squares_regressor.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\ordinary_least_squares_regressor.dir/objects.a @CMakeFiles\ordinary_least_squares_regressor.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ordinary_least_squares_regressor.dir/objects.a -Wl,--no-whole-archive -o ordinary_least_squares_regressor.exe -Wl,--out-implib,libordinary_least_squares_regressor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ordinary_least_squares_regressor.dir\linkLibs.rsp

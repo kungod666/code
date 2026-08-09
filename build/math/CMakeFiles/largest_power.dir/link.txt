@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\largest_power.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\largest_power.dir/objects.a @CMakeFiles\largest_power.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\largest_power.dir/objects.a -Wl,--no-whole-archive -o largest_power.exe -Wl,--out-implib,liblargest_power.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\largest_power.dir\linkLibs.rsp

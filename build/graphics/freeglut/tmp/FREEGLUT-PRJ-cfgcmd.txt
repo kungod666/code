@@ -1,0 +1,1 @@
+cmd='C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-DCMAKE_BUILD_TYPE=Release;-DFREEGLUT_BUILD_SHARED_LIBS=OFF;-DFREEGLUT_BUILD_STATIC_LIBS=ON;-DFREEGLUT_BUILD_DEMOS=OFF;-GMinGW Makefiles;-S;<SOURCE_DIR><SOURCE_SUBDIR>;-B;<BINARY_DIR>'

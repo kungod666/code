@@ -1,0 +1,230 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"probability/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/probability",
+			"paths" : 
+			[
+				"probability/addition_rule.exe"
+			],
+			"targetId" : "addition_rule::@7d3bb2c8a86dc0193958",
+			"targetIndex" : 6,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "addition_rule::@7d3bb2c8a86dc0193958",
+				"index" : 6
+			},
+			"destination" : "bin/probability",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/probability",
+			"paths" : 
+			[
+				"probability/bayes_theorem.exe"
+			],
+			"targetId" : "bayes_theorem::@7d3bb2c8a86dc0193958",
+			"targetIndex" : 18,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "bayes_theorem::@7d3bb2c8a86dc0193958",
+				"index" : 18
+			},
+			"destination" : "bin/probability",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin/probability",
+			"paths" : 
+			[
+				"probability/binomial_dist.exe"
+			],
+			"targetId" : "binomial_dist::@7d3bb2c8a86dc0193958",
+			"targetIndex" : 30,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "binomial_dist::@7d3bb2c8a86dc0193958",
+				"index" : 30
+			},
+			"destination" : "bin/probability",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "bin/probability",
+			"paths" : 
+			[
+				"probability/exponential_dist.exe"
+			],
+			"targetId" : "exponential_dist::@7d3bb2c8a86dc0193958",
+			"targetIndex" : 95,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "exponential_dist::@7d3bb2c8a86dc0193958",
+				"index" : 95
+			},
+			"destination" : "bin/probability",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "bin/probability",
+			"paths" : 
+			[
+				"probability/geometric_dist.exe"
+			],
+			"targetId" : "geometric_dist::@7d3bb2c8a86dc0193958",
+			"targetIndex" : 123,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "geometric_dist::@7d3bb2c8a86dc0193958",
+				"index" : 123
+			},
+			"destination" : "bin/probability",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "bin/probability",
+			"paths" : 
+			[
+				"probability/poisson_dist.exe"
+			],
+			"targetId" : "poisson_dist::@7d3bb2c8a86dc0193958",
+			"targetIndex" : 249,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "poisson_dist::@7d3bb2c8a86dc0193958",
+				"index" : 249
+			},
+			"destination" : "bin/probability",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "bin/probability",
+			"paths" : 
+			[
+				"probability/windowed_median.exe"
+			],
+			"targetId" : "windowed_median::@7d3bb2c8a86dc0193958",
+			"targetIndex" : 356,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "windowed_median::@7d3bb2c8a86dc0193958",
+				"index" : 356
+			},
+			"destination" : "bin/probability",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "probability",
+		"source" : "probability"
+	}
+}

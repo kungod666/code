@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\strassen_matrix_multiplication.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\strassen_matrix_multiplication.dir/objects.a @CMakeFiles\strassen_matrix_multiplication.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\strassen_matrix_multiplication.dir/objects.a -Wl,--no-whole-archive -o strassen_matrix_multiplication.exe -Wl,--out-implib,libstrassen_matrix_multiplication.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\strassen_matrix_multiplication.dir\linkLibs.rsp

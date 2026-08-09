@@ -1,0 +1,375 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"operations_on_datastructures/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/operations_on_datastructures",
+			"paths" : 
+			[
+				"operations_on_datastructures/array_left_rotation.exe"
+			],
+			"targetId" : "array_left_rotation::@741fd124c3080f86af3c",
+			"targetIndex" : 12,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "array_left_rotation::@741fd124c3080f86af3c",
+				"index" : 12
+			},
+			"destination" : "bin/operations_on_datastructures",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/operations_on_datastructures",
+			"paths" : 
+			[
+				"operations_on_datastructures/array_right_rotation.exe"
+			],
+			"targetId" : "array_right_rotation::@741fd124c3080f86af3c",
+			"targetIndex" : 13,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "array_right_rotation::@741fd124c3080f86af3c",
+				"index" : 13
+			},
+			"destination" : "bin/operations_on_datastructures",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin/operations_on_datastructures",
+			"paths" : 
+			[
+				"operations_on_datastructures/circular_linked_list.exe"
+			],
+			"targetId" : "circular_linked_list::@741fd124c3080f86af3c",
+			"targetIndex" : 51,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "circular_linked_list::@741fd124c3080f86af3c",
+				"index" : 51
+			},
+			"destination" : "bin/operations_on_datastructures",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "bin/operations_on_datastructures",
+			"paths" : 
+			[
+				"operations_on_datastructures/circular_queue_using_array.exe"
+			],
+			"targetId" : "circular_queue_using_array::@741fd124c3080f86af3c",
+			"targetIndex" : 52,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "circular_queue_using_array::@741fd124c3080f86af3c",
+				"index" : 52
+			},
+			"destination" : "bin/operations_on_datastructures",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "bin/operations_on_datastructures",
+			"paths" : 
+			[
+				"operations_on_datastructures/get_size_of_linked_list.exe"
+			],
+			"targetId" : "get_size_of_linked_list::@741fd124c3080f86af3c",
+			"targetIndex" : 124,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "get_size_of_linked_list::@741fd124c3080f86af3c",
+				"index" : 124
+			},
+			"destination" : "bin/operations_on_datastructures",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "bin/operations_on_datastructures",
+			"paths" : 
+			[
+				"operations_on_datastructures/inorder_successor_of_bst.exe"
+			],
+			"targetId" : "inorder_successor_of_bst::@741fd124c3080f86af3c",
+			"targetIndex" : 143,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "inorder_successor_of_bst::@741fd124c3080f86af3c",
+				"index" : 143
+			},
+			"destination" : "bin/operations_on_datastructures",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "bin/operations_on_datastructures",
+			"paths" : 
+			[
+				"operations_on_datastructures/intersection_of_two_arrays.exe"
+			],
+			"targetId" : "intersection_of_two_arrays::@741fd124c3080f86af3c",
+			"targetIndex" : 150,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "intersection_of_two_arrays::@741fd124c3080f86af3c",
+				"index" : 150
+			},
+			"destination" : "bin/operations_on_datastructures",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "bin/operations_on_datastructures",
+			"paths" : 
+			[
+				"operations_on_datastructures/reverse_a_linked_list_using_recusion.exe"
+			],
+			"targetId" : "reverse_a_linked_list_using_recusion::@741fd124c3080f86af3c",
+			"targetIndex" : 283,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "reverse_a_linked_list_using_recusion::@741fd124c3080f86af3c",
+				"index" : 283
+			},
+			"destination" : "bin/operations_on_datastructures",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "bin/operations_on_datastructures",
+			"paths" : 
+			[
+				"operations_on_datastructures/reverse_binary_tree.exe"
+			],
+			"targetId" : "reverse_binary_tree::@741fd124c3080f86af3c",
+			"targetIndex" : 284,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "reverse_binary_tree::@741fd124c3080f86af3c",
+				"index" : 284
+			},
+			"destination" : "bin/operations_on_datastructures",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "bin/operations_on_datastructures",
+			"paths" : 
+			[
+				"operations_on_datastructures/selectionsortlinkedlist.exe"
+			],
+			"targetId" : "selectionsortlinkedlist::@741fd124c3080f86af3c",
+			"targetIndex" : 292,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "selectionsortlinkedlist::@741fd124c3080f86af3c",
+				"index" : 292
+			},
+			"destination" : "bin/operations_on_datastructures",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "bin/operations_on_datastructures",
+			"paths" : 
+			[
+				"operations_on_datastructures/trie_multiple_search.exe"
+			],
+			"targetId" : "trie_multiple_search::@741fd124c3080f86af3c",
+			"targetIndex" : 344,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "trie_multiple_search::@741fd124c3080f86af3c",
+				"index" : 344
+			},
+			"destination" : "bin/operations_on_datastructures",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "bin/operations_on_datastructures",
+			"paths" : 
+			[
+				"operations_on_datastructures/union_of_two_arrays.exe"
+			],
+			"targetId" : "union_of_two_arrays::@741fd124c3080f86af3c",
+			"targetIndex" : 348,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "union_of_two_arrays::@741fd124c3080f86af3c",
+				"index" : 348
+			},
+			"destination" : "bin/operations_on_datastructures",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "operations_on_datastructures",
+		"source" : "operations_on_datastructures"
+	}
+}

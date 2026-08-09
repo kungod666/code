@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\swap_sort.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\swap_sort.dir/objects.a @CMakeFiles\swap_sort.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\swap_sort.dir/objects.a -Wl,--no-whole-archive -o swap_sort.exe -Wl,--out-implib,libswap_sort.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\swap_sort.dir\linkLibs.rsp

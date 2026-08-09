@@ -1,0 +1,317 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"greedy_algorithms/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/greedy_algorithms",
+			"paths" : 
+			[
+				"greedy_algorithms/binary_addition.exe"
+			],
+			"targetId" : "binary_addition::@52dedb319e909bedcc1b",
+			"targetIndex" : 22,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "binary_addition::@52dedb319e909bedcc1b",
+				"index" : 22
+			},
+			"destination" : "bin/greedy_algorithms",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/greedy_algorithms",
+			"paths" : 
+			[
+				"greedy_algorithms/boruvkas_minimum_spanning_tree.exe"
+			],
+			"targetId" : "boruvkas_minimum_spanning_tree::@52dedb319e909bedcc1b",
+			"targetIndex" : 35,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "boruvkas_minimum_spanning_tree::@52dedb319e909bedcc1b",
+				"index" : 35
+			},
+			"destination" : "bin/greedy_algorithms",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin/greedy_algorithms",
+			"paths" : 
+			[
+				"greedy_algorithms/digit_separation.exe"
+			],
+			"targetId" : "digit_separation::@52dedb319e909bedcc1b",
+			"targetIndex" : 77,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "digit_separation::@52dedb319e909bedcc1b",
+				"index" : 77
+			},
+			"destination" : "bin/greedy_algorithms",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "bin/greedy_algorithms",
+			"paths" : 
+			[
+				"greedy_algorithms/dijkstra_greedy.exe"
+			],
+			"targetId" : "dijkstra_greedy::@52dedb319e909bedcc1b",
+			"targetIndex" : 79,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "dijkstra_greedy::@52dedb319e909bedcc1b",
+				"index" : 79
+			},
+			"destination" : "bin/greedy_algorithms",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "bin/greedy_algorithms",
+			"paths" : 
+			[
+				"greedy_algorithms/gale_shapley.exe"
+			],
+			"targetId" : "gale_shapley::@52dedb319e909bedcc1b",
+			"targetIndex" : 117,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "gale_shapley::@52dedb319e909bedcc1b",
+				"index" : 117
+			},
+			"destination" : "bin/greedy_algorithms",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "bin/greedy_algorithms",
+			"paths" : 
+			[
+				"greedy_algorithms/huffman.exe"
+			],
+			"targetId" : "huffman::@52dedb319e909bedcc1b",
+			"targetIndex" : 142,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "huffman::@52dedb319e909bedcc1b",
+				"index" : 142
+			},
+			"destination" : "bin/greedy_algorithms",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "bin/greedy_algorithms",
+			"paths" : 
+			[
+				"greedy_algorithms/jump_game.exe"
+			],
+			"targetId" : "jump_game::@52dedb319e909bedcc1b",
+			"targetIndex" : 158,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "jump_game::@52dedb319e909bedcc1b",
+				"index" : 158
+			},
+			"destination" : "bin/greedy_algorithms",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "bin/greedy_algorithms",
+			"paths" : 
+			[
+				"greedy_algorithms/knapsack.exe"
+			],
+			"targetId" : "knapsack::@52dedb319e909bedcc1b",
+			"targetIndex" : 165,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "knapsack::@52dedb319e909bedcc1b",
+				"index" : 165
+			},
+			"destination" : "bin/greedy_algorithms",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "bin/greedy_algorithms",
+			"paths" : 
+			[
+				"greedy_algorithms/kruskals_minimum_spanning_tree.exe"
+			],
+			"targetId" : "kruskals_minimum_spanning_tree::@52dedb319e909bedcc1b",
+			"targetIndex" : 172,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "kruskals_minimum_spanning_tree::@52dedb319e909bedcc1b",
+				"index" : 172
+			},
+			"destination" : "bin/greedy_algorithms",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "bin/greedy_algorithms",
+			"paths" : 
+			[
+				"greedy_algorithms/prims_minimum_spanning_tree.exe"
+			],
+			"targetId" : "prims_minimum_spanning_tree::@52dedb319e909bedcc1b",
+			"targetIndex" : 260,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "prims_minimum_spanning_tree::@52dedb319e909bedcc1b",
+				"index" : 260
+			},
+			"destination" : "bin/greedy_algorithms",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "greedy_algorithms",
+		"source" : "greedy_algorithms"
+	}
+}

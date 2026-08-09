@@ -1,0 +1,1767 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"math/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/aliquot_sum.exe"
+			],
+			"targetId" : "aliquot_sum::@874b28b4c7a3e614380d",
+			"targetIndex" : 7,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "aliquot_sum::@874b28b4c7a3e614380d",
+				"index" : 7
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/approximate_pi.exe"
+			],
+			"targetId" : "approximate_pi::@874b28b4c7a3e614380d",
+			"targetIndex" : 8,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "approximate_pi::@874b28b4c7a3e614380d",
+				"index" : 8
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/area.exe"
+			],
+			"targetId" : "area::@874b28b4c7a3e614380d",
+			"targetIndex" : 9,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "area::@874b28b4c7a3e614380d",
+				"index" : 9
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/armstrong_number.exe"
+			],
+			"targetId" : "armstrong_number::@874b28b4c7a3e614380d",
+			"targetIndex" : 10,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "armstrong_number::@874b28b4c7a3e614380d",
+				"index" : 10
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/binary_exponent.exe"
+			],
+			"targetId" : "binary_exponent::@874b28b4c7a3e614380d",
+			"targetIndex" : 23,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "binary_exponent::@874b28b4c7a3e614380d",
+				"index" : 23
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/binomial_calculate.exe"
+			],
+			"targetId" : "binomial_calculate::@874b28b4c7a3e614380d",
+			"targetIndex" : 29,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "binomial_calculate::@874b28b4c7a3e614380d",
+				"index" : 29
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/check_amicable_pair.exe"
+			],
+			"targetId" : "check_amicable_pair::@874b28b4c7a3e614380d",
+			"targetIndex" : 47,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "check_amicable_pair::@874b28b4c7a3e614380d",
+				"index" : 47
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/check_factorial.exe"
+			],
+			"targetId" : "check_factorial::@874b28b4c7a3e614380d",
+			"targetIndex" : 49,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "check_factorial::@874b28b4c7a3e614380d",
+				"index" : 49
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/check_prime.exe"
+			],
+			"targetId" : "check_prime::@874b28b4c7a3e614380d",
+			"targetIndex" : 50,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "check_prime::@874b28b4c7a3e614380d",
+				"index" : 50
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/complex_numbers.exe"
+			],
+			"targetId" : "complex_numbers::@874b28b4c7a3e614380d",
+			"targetIndex" : 59,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "complex_numbers::@874b28b4c7a3e614380d",
+				"index" : 59
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/double_factorial.exe"
+			],
+			"targetId" : "double_factorial::@874b28b4c7a3e614380d",
+			"targetIndex" : 82,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "double_factorial::@874b28b4c7a3e614380d",
+				"index" : 82
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/eratosthenes.exe"
+			],
+			"targetId" : "eratosthenes::@874b28b4c7a3e614380d",
+			"targetIndex" : 93,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "eratosthenes::@874b28b4c7a3e614380d",
+				"index" : 93
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/eulers_totient_function.exe"
+			],
+			"targetId" : "eulers_totient_function::@874b28b4c7a3e614380d",
+			"targetIndex" : 94,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "eulers_totient_function::@874b28b4c7a3e614380d",
+				"index" : 94
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/extended_euclid_algorithm.exe"
+			],
+			"targetId" : "extended_euclid_algorithm::@874b28b4c7a3e614380d",
+			"targetIndex" : 97,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "extended_euclid_algorithm::@874b28b4c7a3e614380d",
+				"index" : 97
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/factorial.exe"
+			],
+			"targetId" : "factorial::@874b28b4c7a3e614380d",
+			"targetIndex" : 98,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 15,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "factorial::@874b28b4c7a3e614380d",
+				"index" : 98
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/factorial_memoization.exe"
+			],
+			"targetId" : "factorial_memoization::@874b28b4c7a3e614380d",
+			"targetIndex" : 99,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 16,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "factorial_memoization::@874b28b4c7a3e614380d",
+				"index" : 99
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/fast_power.exe"
+			],
+			"targetId" : "fast_power::@874b28b4c7a3e614380d",
+			"targetIndex" : 103,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "fast_power::@874b28b4c7a3e614380d",
+				"index" : 103
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/fibonacci.exe"
+			],
+			"targetId" : "fibonacci::@874b28b4c7a3e614380d",
+			"targetIndex" : 106,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 18,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "fibonacci::@874b28b4c7a3e614380d",
+				"index" : 106
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/fibonacci_fast.exe"
+			],
+			"targetId" : "fibonacci_fast::@874b28b4c7a3e614380d",
+			"targetIndex" : 108,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "fibonacci_fast::@874b28b4c7a3e614380d",
+				"index" : 108
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/fibonacci_large.exe"
+			],
+			"targetId" : "fibonacci_large::@874b28b4c7a3e614380d",
+			"targetIndex" : 109,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 20,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "fibonacci_large::@874b28b4c7a3e614380d",
+				"index" : 109
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/fibonacci_matrix_exponentiation.exe"
+			],
+			"targetId" : "fibonacci_matrix_exponentiation::@874b28b4c7a3e614380d",
+			"targetIndex" : 110,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 21,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "fibonacci_matrix_exponentiation::@874b28b4c7a3e614380d",
+				"index" : 110
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/fibonacci_sum.exe"
+			],
+			"targetId" : "fibonacci_sum::@874b28b4c7a3e614380d",
+			"targetIndex" : 112,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 22,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "fibonacci_sum::@874b28b4c7a3e614380d",
+				"index" : 112
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/finding_number_of_digits_in_a_number.exe"
+			],
+			"targetId" : "finding_number_of_digits_in_a_number::@874b28b4c7a3e614380d",
+			"targetIndex" : 114,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "finding_number_of_digits_in_a_number::@874b28b4c7a3e614380d",
+				"index" : 114
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 24,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/gcd_iterative_euclidean.exe"
+			],
+			"targetId" : "gcd_iterative_euclidean::@874b28b4c7a3e614380d",
+			"targetIndex" : 119,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 24,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "gcd_iterative_euclidean::@874b28b4c7a3e614380d",
+				"index" : 119
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 25,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/gcd_of_n_numbers.exe"
+			],
+			"targetId" : "gcd_of_n_numbers::@874b28b4c7a3e614380d",
+			"targetIndex" : 120,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 25,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "gcd_of_n_numbers::@874b28b4c7a3e614380d",
+				"index" : 120
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 26,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/gcd_recursive_euclidean.exe"
+			],
+			"targetId" : "gcd_recursive_euclidean::@874b28b4c7a3e614380d",
+			"targetIndex" : 121,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 26,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "gcd_recursive_euclidean::@874b28b4c7a3e614380d",
+				"index" : 121
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/integral_approximation.exe"
+			],
+			"targetId" : "integral_approximation::@874b28b4c7a3e614380d",
+			"targetIndex" : 146,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 27,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "integral_approximation::@874b28b4c7a3e614380d",
+				"index" : 146
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 28,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/integral_approximation2.exe"
+			],
+			"targetId" : "integral_approximation2::@874b28b4c7a3e614380d",
+			"targetIndex" : 147,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 28,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "integral_approximation2::@874b28b4c7a3e614380d",
+				"index" : 147
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 29,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/inv_sqrt.exe"
+			],
+			"targetId" : "inv_sqrt::@874b28b4c7a3e614380d",
+			"targetIndex" : 151,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 29,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "inv_sqrt::@874b28b4c7a3e614380d",
+				"index" : 151
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 30,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/iterative_factorial.exe"
+			],
+			"targetId" : "iterative_factorial::@874b28b4c7a3e614380d",
+			"targetIndex" : 155,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 30,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "iterative_factorial::@874b28b4c7a3e614380d",
+				"index" : 155
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 31,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/large_factorial.exe"
+			],
+			"targetId" : "large_factorial::@874b28b4c7a3e614380d",
+			"targetIndex" : 173,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 31,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "large_factorial::@874b28b4c7a3e614380d",
+				"index" : 173
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 32,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/largest_power.exe"
+			],
+			"targetId" : "largest_power::@874b28b4c7a3e614380d",
+			"targetIndex" : 174,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 32,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "largest_power::@874b28b4c7a3e614380d",
+				"index" : 174
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 33,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/lcm_sum.exe"
+			],
+			"targetId" : "lcm_sum::@874b28b4c7a3e614380d",
+			"targetIndex" : 175,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 33,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "lcm_sum::@874b28b4c7a3e614380d",
+				"index" : 175
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 34,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/least_common_multiple.exe"
+			],
+			"targetId" : "least_common_multiple::@874b28b4c7a3e614380d",
+			"targetIndex" : 176,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 34,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "least_common_multiple::@874b28b4c7a3e614380d",
+				"index" : 176
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 35,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/linear_recurrence_matrix.exe"
+			],
+			"targetId" : "linear_recurrence_matrix::@874b28b4c7a3e614380d",
+			"targetIndex" : 181,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 35,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "linear_recurrence_matrix::@874b28b4c7a3e614380d",
+				"index" : 181
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 36,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/magic_number.exe"
+			],
+			"targetId" : "magic_number::@874b28b4c7a3e614380d",
+			"targetIndex" : 197,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 36,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "magic_number::@874b28b4c7a3e614380d",
+				"index" : 197
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 37,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/miller_rabin.exe"
+			],
+			"targetId" : "miller_rabin::@874b28b4c7a3e614380d",
+			"targetIndex" : 211,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 37,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "miller_rabin::@874b28b4c7a3e614380d",
+				"index" : 211
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 38,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/modular_division.exe"
+			],
+			"targetId" : "modular_division::@874b28b4c7a3e614380d",
+			"targetIndex" : 215,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 38,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "modular_division::@874b28b4c7a3e614380d",
+				"index" : 215
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 39,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/modular_exponentiation.exe"
+			],
+			"targetId" : "modular_exponentiation::@874b28b4c7a3e614380d",
+			"targetIndex" : 216,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 39,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "modular_exponentiation::@874b28b4c7a3e614380d",
+				"index" : 216
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 40,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/modular_inverse_fermat_little_theorem.exe"
+			],
+			"targetId" : "modular_inverse_fermat_little_theorem::@874b28b4c7a3e614380d",
+			"targetIndex" : 217,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 40,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "modular_inverse_fermat_little_theorem::@874b28b4c7a3e614380d",
+				"index" : 217
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 41,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/modular_inverse_simple.exe"
+			],
+			"targetId" : "modular_inverse_simple::@874b28b4c7a3e614380d",
+			"targetIndex" : 218,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 41,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "modular_inverse_simple::@874b28b4c7a3e614380d",
+				"index" : 218
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 42,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/n_bonacci.exe"
+			],
+			"targetId" : "n_bonacci::@874b28b4c7a3e614380d",
+			"targetIndex" : 221,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 42,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "n_bonacci::@874b28b4c7a3e614380d",
+				"index" : 221
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 43,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/n_choose_r.exe"
+			],
+			"targetId" : "n_choose_r::@874b28b4c7a3e614380d",
+			"targetIndex" : 222,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 43,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "n_choose_r::@874b28b4c7a3e614380d",
+				"index" : 222
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 44,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/ncr_modulo_p.exe"
+			],
+			"targetId" : "ncr_modulo_p::@874b28b4c7a3e614380d",
+			"targetIndex" : 225,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 44,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "ncr_modulo_p::@874b28b4c7a3e614380d",
+				"index" : 225
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 45,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/number_of_positive_divisors.exe"
+			],
+			"targetId" : "number_of_positive_divisors::@874b28b4c7a3e614380d",
+			"targetIndex" : 233,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 45,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "number_of_positive_divisors::@874b28b4c7a3e614380d",
+				"index" : 233
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 46,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/perimeter.exe"
+			],
+			"targetId" : "perimeter::@874b28b4c7a3e614380d",
+			"targetIndex" : 246,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 46,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "perimeter::@874b28b4c7a3e614380d",
+				"index" : 246
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 47,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/power_for_huge_numbers.exe"
+			],
+			"targetId" : "power_for_huge_numbers::@874b28b4c7a3e614380d",
+			"targetIndex" : 251,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 47,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "power_for_huge_numbers::@874b28b4c7a3e614380d",
+				"index" : 251
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 48,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/power_of_two.exe"
+			],
+			"targetId" : "power_of_two::@874b28b4c7a3e614380d",
+			"targetIndex" : 253,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 48,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "power_of_two::@874b28b4c7a3e614380d",
+				"index" : 253
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 49,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/prime_factorization.exe"
+			],
+			"targetId" : "prime_factorization::@874b28b4c7a3e614380d",
+			"targetIndex" : 257,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 49,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "prime_factorization::@874b28b4c7a3e614380d",
+				"index" : 257
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 50,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/prime_numbers.exe"
+			],
+			"targetId" : "prime_numbers::@874b28b4c7a3e614380d",
+			"targetIndex" : 258,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 50,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "prime_numbers::@874b28b4c7a3e614380d",
+				"index" : 258
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 51,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/primes_up_to_billion.exe"
+			],
+			"targetId" : "primes_up_to_billion::@874b28b4c7a3e614380d",
+			"targetIndex" : 259,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 51,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "primes_up_to_billion::@874b28b4c7a3e614380d",
+				"index" : 259
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 52,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/quadratic_equations_complex_numbers.exe"
+			],
+			"targetId" : "quadratic_equations_complex_numbers::@874b28b4c7a3e614380d",
+			"targetIndex" : 263,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 52,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "quadratic_equations_complex_numbers::@874b28b4c7a3e614380d",
+				"index" : 263
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 53,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/realtime_stats.exe"
+			],
+			"targetId" : "realtime_stats::@874b28b4c7a3e614380d",
+			"targetIndex" : 279,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 53,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "realtime_stats::@874b28b4c7a3e614380d",
+				"index" : 279
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 54,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/sieve_of_eratosthenes.exe"
+			],
+			"targetId" : "sieve_of_eratosthenes::@874b28b4c7a3e614380d",
+			"targetIndex" : 299,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 54,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "sieve_of_eratosthenes::@874b28b4c7a3e614380d",
+				"index" : 299
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 55,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/sqrt_double.exe"
+			],
+			"targetId" : "sqrt_double::@874b28b4c7a3e614380d",
+			"targetIndex" : 308,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 55,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "sqrt_double::@874b28b4c7a3e614380d",
+				"index" : 308
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 56,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/string_fibonacci.exe"
+			],
+			"targetId" : "string_fibonacci::@874b28b4c7a3e614380d",
+			"targetIndex" : 316,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 56,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "string_fibonacci::@874b28b4c7a3e614380d",
+				"index" : 316
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 57,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/sum_of_binomial_coefficient.exe"
+			],
+			"targetId" : "sum_of_binomial_coefficient::@874b28b4c7a3e614380d",
+			"targetIndex" : 323,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 57,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "sum_of_binomial_coefficient::@874b28b4c7a3e614380d",
+				"index" : 323
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 58,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/sum_of_digits.exe"
+			],
+			"targetId" : "sum_of_digits::@874b28b4c7a3e614380d",
+			"targetIndex" : 324,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 58,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "sum_of_digits::@874b28b4c7a3e614380d",
+				"index" : 324
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 59,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/vector_cross_product.exe"
+			],
+			"targetId" : "vector_cross_product::@874b28b4c7a3e614380d",
+			"targetIndex" : 349,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 59,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "vector_cross_product::@874b28b4c7a3e614380d",
+				"index" : 349
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 60,
+			"component" : "Unspecified",
+			"destination" : "bin/math",
+			"paths" : 
+			[
+				"math/volume.exe"
+			],
+			"targetId" : "volume::@874b28b4c7a3e614380d",
+			"targetIndex" : 352,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 60,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "volume::@874b28b4c7a3e614380d",
+				"index" : 352
+			},
+			"destination" : "bin/math",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "math",
+		"source" : "math"
+	}
+}

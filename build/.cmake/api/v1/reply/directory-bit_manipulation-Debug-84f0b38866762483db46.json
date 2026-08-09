@@ -1,0 +1,346 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"bit_manipulation/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/bit_manipulation",
+			"paths" : 
+			[
+				"bit_manipulation/check_even_odd.exe"
+			],
+			"targetId" : "check_even_odd::@31a6a435bc037c9daa44",
+			"targetIndex" : 48,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "check_even_odd::@31a6a435bc037c9daa44",
+				"index" : 48
+			},
+			"destination" : "bin/bit_manipulation",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/bit_manipulation",
+			"paths" : 
+			[
+				"bit_manipulation/count_bits_flip.exe"
+			],
+			"targetId" : "count_bits_flip::@31a6a435bc037c9daa44",
+			"targetIndex" : 63,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "count_bits_flip::@31a6a435bc037c9daa44",
+				"index" : 63
+			},
+			"destination" : "bin/bit_manipulation",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin/bit_manipulation",
+			"paths" : 
+			[
+				"bit_manipulation/count_of_set_bits.exe"
+			],
+			"targetId" : "count_of_set_bits::@31a6a435bc037c9daa44",
+			"targetIndex" : 65,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "count_of_set_bits::@31a6a435bc037c9daa44",
+				"index" : 65
+			},
+			"destination" : "bin/bit_manipulation",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "bin/bit_manipulation",
+			"paths" : 
+			[
+				"bit_manipulation/count_of_trailing_ciphers_in_factorial_n.exe"
+			],
+			"targetId" : "count_of_trailing_ciphers_in_factorial_n::@31a6a435bc037c9daa44",
+			"targetIndex" : 66,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "count_of_trailing_ciphers_in_factorial_n::@31a6a435bc037c9daa44",
+				"index" : 66
+			},
+			"destination" : "bin/bit_manipulation",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "bin/bit_manipulation",
+			"paths" : 
+			[
+				"bit_manipulation/find_non_repeating_number.exe"
+			],
+			"targetId" : "find_non_repeating_number::@31a6a435bc037c9daa44",
+			"targetIndex" : 113,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "find_non_repeating_number::@31a6a435bc037c9daa44",
+				"index" : 113
+			},
+			"destination" : "bin/bit_manipulation",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "bin/bit_manipulation",
+			"paths" : 
+			[
+				"bit_manipulation/gray_code.exe"
+			],
+			"targetId" : "gray_code::@31a6a435bc037c9daa44",
+			"targetIndex" : 130,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "gray_code::@31a6a435bc037c9daa44",
+				"index" : 130
+			},
+			"destination" : "bin/bit_manipulation",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "bin/bit_manipulation",
+			"paths" : 
+			[
+				"bit_manipulation/hamming_distance.exe"
+			],
+			"targetId" : "hamming_distance::@31a6a435bc037c9daa44",
+			"targetIndex" : 133,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "hamming_distance::@31a6a435bc037c9daa44",
+				"index" : 133
+			},
+			"destination" : "bin/bit_manipulation",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "bin/bit_manipulation",
+			"paths" : 
+			[
+				"bit_manipulation/next_higher_number_with_same_number_of_set_bits.exe"
+			],
+			"targetId" : "next_higher_number_with_same_number_of_set_bits::@31a6a435bc037c9daa44",
+			"targetIndex" : 228,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "next_higher_number_with_same_number_of_set_bits::@31a6a435bc037c9daa44",
+				"index" : 228
+			},
+			"destination" : "bin/bit_manipulation",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "bin/bit_manipulation",
+			"paths" : 
+			[
+				"bit_manipulation/power_of_2.exe"
+			],
+			"targetId" : "power_of_2::@31a6a435bc037c9daa44",
+			"targetIndex" : 252,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "power_of_2::@31a6a435bc037c9daa44",
+				"index" : 252
+			},
+			"destination" : "bin/bit_manipulation",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "bin/bit_manipulation",
+			"paths" : 
+			[
+				"bit_manipulation/set_kth_bit.exe"
+			],
+			"targetId" : "set_kth_bit::@31a6a435bc037c9daa44",
+			"targetIndex" : 293,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "set_kth_bit::@31a6a435bc037c9daa44",
+				"index" : 293
+			},
+			"destination" : "bin/bit_manipulation",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "bin/bit_manipulation",
+			"paths" : 
+			[
+				"bit_manipulation/travelling_salesman_using_bit_manipulation.exe"
+			],
+			"targetId" : "travelling_salesman_using_bit_manipulation::@31a6a435bc037c9daa44",
+			"targetIndex" : 338,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "travelling_salesman_using_bit_manipulation::@31a6a435bc037c9daa44",
+				"index" : 338
+			},
+			"destination" : "bin/bit_manipulation",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "bit_manipulation",
+		"source" : "bit_manipulation"
+	}
+}

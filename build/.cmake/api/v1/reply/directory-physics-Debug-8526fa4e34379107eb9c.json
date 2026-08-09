@@ -1,0 +1,56 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"physics/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 14,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/physics",
+			"paths" : 
+			[
+				"physics/ground_to_ground_projectile_motion.exe"
+			],
+			"targetId" : "ground_to_ground_projectile_motion::@da882abbe620802ef160",
+			"targetIndex" : 131,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "ground_to_ground_projectile_motion::@da882abbe620802ef160",
+				"index" : 131
+			},
+			"destination" : "bin/physics",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "physics",
+		"source" : "physics"
+	}
+}

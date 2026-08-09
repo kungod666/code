@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\house_robber.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\house_robber.dir/objects.a @CMakeFiles\house_robber.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\house_robber.dir/objects.a -Wl,--no-whole-archive -o house_robber.exe -Wl,--out-implib,libhouse_robber.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\house_robber.dir\linkLibs.rsp

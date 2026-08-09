@@ -1,0 +1,404 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"backtracking/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin/backtracking",
+			"paths" : 
+			[
+				"backtracking/generate_parentheses.exe"
+			],
+			"targetId" : "generate_parentheses::@2c647d1e400f67caf555",
+			"targetIndex" : 122,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "generate_parentheses::@2c647d1e400f67caf555",
+				"index" : 122
+			},
+			"destination" : "bin/backtracking",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "bin/backtracking",
+			"paths" : 
+			[
+				"backtracking/graph_coloring.exe"
+			],
+			"targetId" : "graph_coloring::@2c647d1e400f67caf555",
+			"targetIndex" : 129,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "graph_coloring::@2c647d1e400f67caf555",
+				"index" : 129
+			},
+			"destination" : "bin/backtracking",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin/backtracking",
+			"paths" : 
+			[
+				"backtracking/knight_tour.exe"
+			],
+			"targetId" : "knight_tour::@2c647d1e400f67caf555",
+			"targetIndex" : 166,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "knight_tour::@2c647d1e400f67caf555",
+				"index" : 166
+			},
+			"destination" : "bin/backtracking",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "bin/backtracking",
+			"paths" : 
+			[
+				"backtracking/magic_sequence.exe"
+			],
+			"targetId" : "magic_sequence::@2c647d1e400f67caf555",
+			"targetIndex" : 198,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "magic_sequence::@2c647d1e400f67caf555",
+				"index" : 198
+			},
+			"destination" : "bin/backtracking",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "bin/backtracking",
+			"paths" : 
+			[
+				"backtracking/minimax.exe"
+			],
+			"targetId" : "minimax::@2c647d1e400f67caf555",
+			"targetIndex" : 212,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "minimax::@2c647d1e400f67caf555",
+				"index" : 212
+			},
+			"destination" : "bin/backtracking",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "bin/backtracking",
+			"paths" : 
+			[
+				"backtracking/n_queens.exe"
+			],
+			"targetId" : "n_queens::@2c647d1e400f67caf555",
+			"targetIndex" : 223,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "n_queens::@2c647d1e400f67caf555",
+				"index" : 223
+			},
+			"destination" : "bin/backtracking",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "bin/backtracking",
+			"paths" : 
+			[
+				"backtracking/n_queens_all_solution_optimised.exe"
+			],
+			"targetId" : "n_queens_all_solution_optimised::@2c647d1e400f67caf555",
+			"targetIndex" : 224,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "n_queens_all_solution_optimised::@2c647d1e400f67caf555",
+				"index" : 224
+			},
+			"destination" : "bin/backtracking",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"destination" : "bin/backtracking",
+			"paths" : 
+			[
+				"backtracking/nqueen_print_all_solutions.exe"
+			],
+			"targetId" : "nqueen_print_all_solutions::@2c647d1e400f67caf555",
+			"targetIndex" : 231,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 8,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "nqueen_print_all_solutions::@2c647d1e400f67caf555",
+				"index" : 231
+			},
+			"destination" : "bin/backtracking",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"destination" : "bin/backtracking",
+			"paths" : 
+			[
+				"backtracking/rat_maze.exe"
+			],
+			"targetId" : "rat_maze::@2c647d1e400f67caf555",
+			"targetIndex" : 277,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 9,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "rat_maze::@2c647d1e400f67caf555",
+				"index" : 277
+			},
+			"destination" : "bin/backtracking",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"destination" : "bin/backtracking",
+			"paths" : 
+			[
+				"backtracking/subarray_sum.exe"
+			],
+			"targetId" : "subarray_sum::@2c647d1e400f67caf555",
+			"targetIndex" : 317,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 10,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "subarray_sum::@2c647d1e400f67caf555",
+				"index" : 317
+			},
+			"destination" : "bin/backtracking",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"destination" : "bin/backtracking",
+			"paths" : 
+			[
+				"backtracking/subset_sum.exe"
+			],
+			"targetId" : "subset_sum::@2c647d1e400f67caf555",
+			"targetIndex" : 319,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 11,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "subset_sum::@2c647d1e400f67caf555",
+				"index" : 319
+			},
+			"destination" : "bin/backtracking",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"destination" : "bin/backtracking",
+			"paths" : 
+			[
+				"backtracking/sudoku_solver.exe"
+			],
+			"targetId" : "sudoku_solver::@2c647d1e400f67caf555",
+			"targetIndex" : 322,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 12,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "sudoku_solver::@2c647d1e400f67caf555",
+				"index" : 322
+			},
+			"destination" : "bin/backtracking",
+			"type" : "cxxModuleBmi"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"destination" : "bin/backtracking",
+			"paths" : 
+			[
+				"backtracking/wildcard_matching.exe"
+			],
+			"targetId" : "wildcard_matching::@2c647d1e400f67caf555",
+			"targetIndex" : 355,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 13,
+			"component" : "Unspecified",
+			"cxxModuleBmiTarget" : 
+			{
+				"id" : "wildcard_matching::@2c647d1e400f67caf555",
+				"index" : 355
+			},
+			"destination" : "bin/backtracking",
+			"type" : "cxxModuleBmi"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "backtracking",
+		"source" : "backtracking"
+	}
+}
